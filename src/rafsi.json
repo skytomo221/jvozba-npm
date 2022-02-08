@@ -1,0 +1,9920 @@
+[
+  {
+    "selrafsi": "backi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bacru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ba'u"]
+  },
+  {
+    "selrafsi": "badna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "badri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dri"]
+  },
+  {
+    "selrafsi": "bajra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["baj"]
+  },
+  {
+    "selrafsi": "bakfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["baf"]
+  },
+  {
+    "selrafsi": "bakni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bak"]
+  },
+  {
+    "selrafsi": "bakri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "baktu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "balji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "balni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "balre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ba'e"]
+  },
+  {
+    "selrafsi": "balvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bav"]
+  },
+  {
+    "selrafsi": "bambu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bancu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bac"]
+  },
+  {
+    "selrafsi": "bandu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bad"]
+  },
+  {
+    "selrafsi": "banfi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bangu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ban", "bau"]
+  },
+  {
+    "selrafsi": "banli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bal", "ba'i"]
+  },
+  {
+    "selrafsi": "banro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ba'o"]
+  },
+  {
+    "selrafsi": "banxa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bax"]
+  },
+  {
+    "selrafsi": "banzu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["baz"]
+  },
+  {
+    "selrafsi": "bapli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bap", "bai"]
+  },
+  {
+    "selrafsi": "barda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bra"]
+  },
+  {
+    "selrafsi": "bargu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bag"]
+  },
+  {
+    "selrafsi": "barja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "barna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ba'a"]
+  },
+  {
+    "selrafsi": "bartu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bar"]
+  },
+  {
+    "selrafsi": "basfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "basna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "basti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bas"]
+  },
+  {
+    "selrafsi": "batci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bat"]
+  },
+  {
+    "selrafsi": "batke",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bavmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "baxso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bebna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["beb"]
+  },
+  {
+    "selrafsi": "bekpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bemro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bem", "be'o"]
+  },
+  {
+    "selrafsi": "bende",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bed", "be'e"]
+  },
+  {
+    "selrafsi": "bengo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["beg"]
+  },
+  {
+    "selrafsi": "benji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bej", "be'i"]
+  },
+  {
+    "selrafsi": "benre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "benzo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bergu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bersa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bes", "be'a"]
+  },
+  {
+    "selrafsi": "berti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ber"]
+  },
+  {
+    "selrafsi": "besna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ben"]
+  },
+  {
+    "selrafsi": "besto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "betfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bef", "be'u"]
+  },
+  {
+    "selrafsi": "betri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bet"]
+  },
+  {
+    "selrafsi": "bevri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bev", "bei"]
+  },
+  {
+    "selrafsi": "bidju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bifce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bic"]
+  },
+  {
+    "selrafsi": "bikla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bik"]
+  },
+  {
+    "selrafsi": "bilga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["big"]
+  },
+  {
+    "selrafsi": "bilma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bi'a"]
+  },
+  {
+    "selrafsi": "bilni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bil"]
+  },
+  {
+    "selrafsi": "bindo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bid"]
+  },
+  {
+    "selrafsi": "binra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "binxo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bix", "bi'o"]
+  },
+  {
+    "selrafsi": "birje",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "birka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bir"]
+  },
+  {
+    "selrafsi": "birti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bit"]
+  },
+  {
+    "selrafsi": "bisli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bis"]
+  },
+  {
+    "selrafsi": "bitmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bim", "bi'u"]
+  },
+  {
+    "selrafsi": "bitni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "blabi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lab"]
+  },
+  {
+    "selrafsi": "blaci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "blanu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bla"]
+  },
+  {
+    "selrafsi": "bliku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bli"]
+  },
+  {
+    "selrafsi": "bloti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lot", "blo", "lo'i"]
+  },
+  {
+    "selrafsi": "bolci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bol", "boi"]
+  },
+  {
+    "selrafsi": "bongu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bog", "bo'u"]
+  },
+  {
+    "selrafsi": "boske",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "botpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bot", "bo'i"]
+  },
+  {
+    "selrafsi": "boxfo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bof", "bo'o"]
+  },
+  {
+    "selrafsi": "boxna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bon", "bo'a"]
+  },
+  {
+    "selrafsi": "bradi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "brano",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bratu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "brazo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["raz"]
+  },
+  {
+    "selrafsi": "bredi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["red", "bre"]
+  },
+  {
+    "selrafsi": "bridi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bri"]
+  },
+  {
+    "selrafsi": "brife",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bif", "bi'e"]
+  },
+  {
+    "selrafsi": "briju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bij"]
+  },
+  {
+    "selrafsi": "brito",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rit"]
+  },
+  {
+    "selrafsi": "brivo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "broda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rod"]
+  },
+  {
+    "selrafsi": "brode",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bo'e"]
+  },
+  {
+    "selrafsi": "brodi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "brodo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "brodu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bruna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bun", "bu'a"]
+  },
+  {
+    "selrafsi": "budjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["buj", "bu'o"]
+  },
+  {
+    "selrafsi": "bukpu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["buk", "bu'u"]
+  },
+  {
+    "selrafsi": "bumru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bum"]
+  },
+  {
+    "selrafsi": "bunda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bud"]
+  },
+  {
+    "selrafsi": "bunre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bur", "bu'e"]
+  },
+  {
+    "selrafsi": "burcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bru"]
+  },
+  {
+    "selrafsi": "burna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cabna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cab"]
+  },
+  {
+    "selrafsi": "cabra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ca'a"]
+  },
+  {
+    "selrafsi": "cacra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cadga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cadzu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dzu"]
+  },
+  {
+    "selrafsi": "cafne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["caf"]
+  },
+  {
+    "selrafsi": "cagna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cakla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "calku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cak"]
+  },
+  {
+    "selrafsi": "calse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "canci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cando",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cad"]
+  },
+  {
+    "selrafsi": "cange",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cag"]
+  },
+  {
+    "selrafsi": "canja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["caj"]
+  },
+  {
+    "selrafsi": "canko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ca'o"]
+  },
+  {
+    "selrafsi": "canlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cal", "ca'u"]
+  },
+  {
+    "selrafsi": "canpa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cna"]
+  },
+  {
+    "selrafsi": "canre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["can"]
+  },
+  {
+    "selrafsi": "canti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "carce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "carfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "carmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cam", "cai"]
+  },
+  {
+    "selrafsi": "carna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["car"]
+  },
+  {
+    "selrafsi": "cartu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cat"]
+  },
+  {
+    "selrafsi": "carvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cav"]
+  },
+  {
+    "selrafsi": "casnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["snu"]
+  },
+  {
+    "selrafsi": "catke",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ca'e"]
+  },
+  {
+    "selrafsi": "catlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cta"]
+  },
+  {
+    "selrafsi": "catni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ca'i"]
+  },
+  {
+    "selrafsi": "catra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "caxno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cax"]
+  },
+  {
+    "selrafsi": "cecla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cel", "ce'a"]
+  },
+  {
+    "selrafsi": "cecmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cem", "ce'u"]
+  },
+  {
+    "selrafsi": "cedra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cenba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cne"]
+  },
+  {
+    "selrafsi": "censa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ces"]
+  },
+  {
+    "selrafsi": "centi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cen"]
+  },
+  {
+    "selrafsi": "cerda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ced"]
+  },
+  {
+    "selrafsi": "cerni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cer"]
+  },
+  {
+    "selrafsi": "certu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cre"]
+  },
+  {
+    "selrafsi": "cevni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cev", "cei"]
+  },
+  {
+    "selrafsi": "cfale",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cfari",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cfa"]
+  },
+  {
+    "selrafsi": "cfika",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fik", "fi'a"]
+  },
+  {
+    "selrafsi": "cfila",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cfi"]
+  },
+  {
+    "selrafsi": "cfine",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cfipu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fi'u"]
+  },
+  {
+    "selrafsi": "ciblu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["blu"]
+  },
+  {
+    "selrafsi": "cicna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cidja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dja"]
+  },
+  {
+    "selrafsi": "cidni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cid"]
+  },
+  {
+    "selrafsi": "cidro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dro"]
+  },
+  {
+    "selrafsi": "cifnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cif"]
+  },
+  {
+    "selrafsi": "cigla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cig"]
+  },
+  {
+    "selrafsi": "cikna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cik"]
+  },
+  {
+    "selrafsi": "cikre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ciksi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cki"]
+  },
+  {
+    "selrafsi": "cilce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cic"]
+  },
+  {
+    "selrafsi": "cilfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cilmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cim"]
+  },
+  {
+    "selrafsi": "cilre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cli"]
+  },
+  {
+    "selrafsi": "cilta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cil"]
+  },
+  {
+    "selrafsi": "cimde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cimni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cinba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cindu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cinfo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cinje",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cij"]
+  },
+  {
+    "selrafsi": "cinki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cinla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cinmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cni"]
+  },
+  {
+    "selrafsi": "cinri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ci'i"]
+  },
+  {
+    "selrafsi": "cinse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cin"]
+  },
+  {
+    "selrafsi": "cinta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cinza",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cipni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cpi"]
+  },
+  {
+    "selrafsi": "cipra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cip"]
+  },
+  {
+    "selrafsi": "cirko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cri"]
+  },
+  {
+    "selrafsi": "cirla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ciska",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ci'a"]
+  },
+  {
+    "selrafsi": "cisma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cisni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ciste",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ci'e"]
+  },
+  {
+    "selrafsi": "citka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cti"]
+  },
+  {
+    "selrafsi": "citno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cit", "ci'o"]
+  },
+  {
+    "selrafsi": "citri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cir"]
+  },
+  {
+    "selrafsi": "citsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "civla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["civ"]
+  },
+  {
+    "selrafsi": "cizra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ciz"]
+  },
+  {
+    "selrafsi": "ckabu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ckafi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kaf"]
+  },
+  {
+    "selrafsi": "ckaji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kai"]
+  },
+  {
+    "selrafsi": "ckana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cka"]
+  },
+  {
+    "selrafsi": "ckape",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cap"]
+  },
+  {
+    "selrafsi": "ckasu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cas"]
+  },
+  {
+    "selrafsi": "ckeji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kej", "cke"]
+  },
+  {
+    "selrafsi": "ckiku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kik"]
+  },
+  {
+    "selrafsi": "ckilu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ci'u"]
+  },
+  {
+    "selrafsi": "ckini",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ki'i"]
+  },
+  {
+    "selrafsi": "ckire",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kir"]
+  },
+  {
+    "selrafsi": "ckule",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kul", "cu'e"]
+  },
+  {
+    "selrafsi": "ckunu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ku'u"]
+  },
+  {
+    "selrafsi": "cladu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lau"]
+  },
+  {
+    "selrafsi": "clani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cla"]
+  },
+  {
+    "selrafsi": "claxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cau"]
+  },
+  {
+    "selrafsi": "cletu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "clika",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "clinu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "clira",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lir"]
+  },
+  {
+    "selrafsi": "clite",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lit"]
+  },
+  {
+    "selrafsi": "cliva",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["liv", "li'a"]
+  },
+  {
+    "selrafsi": "clupa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cup"]
+  },
+  {
+    "selrafsi": "cmaci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cmalu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cma"]
+  },
+  {
+    "selrafsi": "cmana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ma'a"]
+  },
+  {
+    "selrafsi": "cmavo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ma'o"]
+  },
+  {
+    "selrafsi": "cmene",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cme", "me'e"]
+  },
+  {
+    "selrafsi": "cmeta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cmevo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cmila",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mi'a"]
+  },
+  {
+    "selrafsi": "cmima",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mim", "cmi"]
+  },
+  {
+    "selrafsi": "cmoni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cmo", "co'i"]
+  },
+  {
+    "selrafsi": "cnano",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["na'o"]
+  },
+  {
+    "selrafsi": "cnebo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["neb", "ne'o"]
+  },
+  {
+    "selrafsi": "cnemu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nem", "ne'u"]
+  },
+  {
+    "selrafsi": "cnici",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nic"]
+  },
+  {
+    "selrafsi": "cnino",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nin", "ni'o"]
+  },
+  {
+    "selrafsi": "cnisa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nis"]
+  },
+  {
+    "selrafsi": "cnita",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nit", "ni'a"]
+  },
+  {
+    "selrafsi": "cokcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cko"]
+  },
+  {
+    "selrafsi": "condi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["con", "cno", "coi"]
+  },
+  {
+    "selrafsi": "conka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "corci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cortu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cor", "cro"]
+  },
+  {
+    "selrafsi": "cpacu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cpa"]
+  },
+  {
+    "selrafsi": "cpana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cpare",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["par"]
+  },
+  {
+    "selrafsi": "cpedu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cpe"]
+  },
+  {
+    "selrafsi": "cpina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cradi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "crane",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cra"]
+  },
+  {
+    "selrafsi": "creka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cek"]
+  },
+  {
+    "selrafsi": "crepu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rep"]
+  },
+  {
+    "selrafsi": "cribe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rib"]
+  },
+  {
+    "selrafsi": "crida",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rid"]
+  },
+  {
+    "selrafsi": "crino",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ri'o"]
+  },
+  {
+    "selrafsi": "cripu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rip"]
+  },
+  {
+    "selrafsi": "crisa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cis"]
+  },
+  {
+    "selrafsi": "critu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ctaru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ctebi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["teb"]
+  },
+  {
+    "selrafsi": "cteki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tek", "ce'i"]
+  },
+  {
+    "selrafsi": "ctile",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ctino",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ti'o"]
+  },
+  {
+    "selrafsi": "ctuca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ctu"]
+  },
+  {
+    "selrafsi": "cukla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cuk"]
+  },
+  {
+    "selrafsi": "cukre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cukta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cku"]
+  },
+  {
+    "selrafsi": "culno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["clu"]
+  },
+  {
+    "selrafsi": "cumki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cum", "cu'i"]
+  },
+  {
+    "selrafsi": "cumla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cul"]
+  },
+  {
+    "selrafsi": "cunmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cunso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cun", "cu'o"]
+  },
+  {
+    "selrafsi": "cuntu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cu'u"]
+  },
+  {
+    "selrafsi": "cupra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pra"]
+  },
+  {
+    "selrafsi": "curmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cru"]
+  },
+  {
+    "selrafsi": "curnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cur"]
+  },
+  {
+    "selrafsi": "curve",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cuv"]
+  },
+  {
+    "selrafsi": "cusku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cus", "sku"]
+  },
+  {
+    "selrafsi": "cusna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "cutci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cuc"]
+  },
+  {
+    "selrafsi": "cutne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cut"]
+  },
+  {
+    "selrafsi": "cuxna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cux", "cu'a"]
+  },
+  {
+    "selrafsi": "dacru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dac"]
+  },
+  {
+    "selrafsi": "dacti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dai"]
+  },
+  {
+    "selrafsi": "dadjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["daj"]
+  },
+  {
+    "selrafsi": "dakfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dak"]
+  },
+  {
+    "selrafsi": "dakli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "damba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dab", "da'a"]
+  },
+  {
+    "selrafsi": "damri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dandu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dad"]
+  },
+  {
+    "selrafsi": "danfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["daf"]
+  },
+  {
+    "selrafsi": "danlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dal", "da'u"]
+  },
+  {
+    "selrafsi": "danmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dam"]
+  },
+  {
+    "selrafsi": "danre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["da'e"]
+  },
+  {
+    "selrafsi": "dansu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "danti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dan"]
+  },
+  {
+    "selrafsi": "daplu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["plu"]
+  },
+  {
+    "selrafsi": "dapma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dap"]
+  },
+  {
+    "selrafsi": "darca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dargu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dag"]
+  },
+  {
+    "selrafsi": "darlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dau"]
+  },
+  {
+    "selrafsi": "darno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dar", "da'o"]
+  },
+  {
+    "selrafsi": "darsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "darxi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dax", "da'i"]
+  },
+  {
+    "selrafsi": "daski",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dasni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["das"]
+  },
+  {
+    "selrafsi": "daspo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["spo"]
+  },
+  {
+    "selrafsi": "dasri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sri"]
+  },
+  {
+    "selrafsi": "datka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "datni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "datro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "datru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "decti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dec"]
+  },
+  {
+    "selrafsi": "degji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["deg"]
+  },
+  {
+    "selrafsi": "dejni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dej"]
+  },
+  {
+    "selrafsi": "dekpu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dekto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dek"]
+  },
+  {
+    "selrafsi": "delno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["del", "de'o"]
+  },
+  {
+    "selrafsi": "dembi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["deb"]
+  },
+  {
+    "selrafsi": "denci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["den", "de'i"]
+  },
+  {
+    "selrafsi": "denmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dem"]
+  },
+  {
+    "selrafsi": "denpa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dep", "de'a"]
+  },
+  {
+    "selrafsi": "dertu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["der", "de'u"]
+  },
+  {
+    "selrafsi": "derxi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dre"]
+  },
+  {
+    "selrafsi": "desku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["des"]
+  },
+  {
+    "selrafsi": "detri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["det"]
+  },
+  {
+    "selrafsi": "dicma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dicra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dir"]
+  },
+  {
+    "selrafsi": "didni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "digno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dikca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dic"]
+  },
+  {
+    "selrafsi": "diklo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["klo"]
+  },
+  {
+    "selrafsi": "dikni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dik"]
+  },
+  {
+    "selrafsi": "dilcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dilma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dilnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dil"]
+  },
+  {
+    "selrafsi": "dimna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dim"]
+  },
+  {
+    "selrafsi": "dindi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dinju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dij", "di'u"]
+  },
+  {
+    "selrafsi": "dinko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["di'o"]
+  },
+  {
+    "selrafsi": "dinso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dirba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dib"]
+  },
+  {
+    "selrafsi": "dirce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["di'e"]
+  },
+  {
+    "selrafsi": "dirgo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dig"]
+  },
+  {
+    "selrafsi": "disko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ditcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "divzi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dizlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["diz", "dzi"]
+  },
+  {
+    "selrafsi": "djacu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jac", "jau"]
+  },
+  {
+    "selrafsi": "djedi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dje", "dei"]
+  },
+  {
+    "selrafsi": "djica",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dji"]
+  },
+  {
+    "selrafsi": "djine",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jin"]
+  },
+  {
+    "selrafsi": "djuno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jun", "ju'o"]
+  },
+  {
+    "selrafsi": "donri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dor", "do'i"]
+  },
+  {
+    "selrafsi": "dotco",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dot", "do'o"]
+  },
+  {
+    "selrafsi": "draci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "drani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dra"]
+  },
+  {
+    "selrafsi": "drata",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dat"]
+  },
+  {
+    "selrafsi": "drudi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rud", "dru"]
+  },
+  {
+    "selrafsi": "dugri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dug"]
+  },
+  {
+    "selrafsi": "dukse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dus", "du'e"]
+  },
+  {
+    "selrafsi": "dukti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dut"]
+  },
+  {
+    "selrafsi": "dunda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dud", "du'a"]
+  },
+  {
+    "selrafsi": "dunja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["duj"]
+  },
+  {
+    "selrafsi": "dunku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["duk", "du'u"]
+  },
+  {
+    "selrafsi": "dunli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dun", "du'i"]
+  },
+  {
+    "selrafsi": "dunra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dur"]
+  },
+  {
+    "selrafsi": "dutso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "dzena",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dze"]
+  },
+  {
+    "selrafsi": "dzipo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zip", "zi'o"]
+  },
+  {
+    "selrafsi": "facki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fak", "fa'i"]
+  },
+  {
+    "selrafsi": "fadni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fad"]
+  },
+  {
+    "selrafsi": "fagri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fag"]
+  },
+  {
+    "selrafsi": "falnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fan"]
+  },
+  {
+    "selrafsi": "famti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fancu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fange",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fanmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fam", "fa'o"]
+  },
+  {
+    "selrafsi": "fanri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fanta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fanva",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fanza",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["faz"]
+  },
+  {
+    "selrafsi": "fapro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fap", "pro"]
+  },
+  {
+    "selrafsi": "farka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "farlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fal", "fa'u"]
+  },
+  {
+    "selrafsi": "farna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["far", "fa'a"]
+  },
+  {
+    "selrafsi": "farvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fav"]
+  },
+  {
+    "selrafsi": "fasnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fau"]
+  },
+  {
+    "selrafsi": "fatci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fac"]
+  },
+  {
+    "selrafsi": "fatne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fat", "fa'e"]
+  },
+  {
+    "selrafsi": "fatri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fai"]
+  },
+  {
+    "selrafsi": "febvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["feb"]
+  },
+  {
+    "selrafsi": "fegli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "femti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fem"]
+  },
+  {
+    "selrafsi": "fendi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fed"]
+  },
+  {
+    "selrafsi": "fengu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["feg", "fe'u"]
+  },
+  {
+    "selrafsi": "fenki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fek"]
+  },
+  {
+    "selrafsi": "fenra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fer", "fe'a"]
+  },
+  {
+    "selrafsi": "fenso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fen", "fe'o"]
+  },
+  {
+    "selrafsi": "fepni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fep", "fei"]
+  },
+  {
+    "selrafsi": "fepri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ferti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fre"]
+  },
+  {
+    "selrafsi": "festi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fes"]
+  },
+  {
+    "selrafsi": "fetsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fet", "fe'i"]
+  },
+  {
+    "selrafsi": "figre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fig"]
+  },
+  {
+    "selrafsi": "filso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fis"]
+  },
+  {
+    "selrafsi": "finpe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fip", "fi'e"]
+  },
+  {
+    "selrafsi": "finti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fin", "fi'i"]
+  },
+  {
+    "selrafsi": "firca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fisli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fizbu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "flaci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "flalu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fla"]
+  },
+  {
+    "selrafsi": "flani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "flecu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fle"]
+  },
+  {
+    "selrafsi": "flese",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fliba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fli"]
+  },
+  {
+    "selrafsi": "flira",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fir"]
+  },
+  {
+    "selrafsi": "foldi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["flo", "foi"]
+  },
+  {
+    "selrafsi": "fonmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fom", "fo'o"]
+  },
+  {
+    "selrafsi": "fonxa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fon"]
+  },
+  {
+    "selrafsi": "forca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fro"]
+  },
+  {
+    "selrafsi": "forse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "fraso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fas"]
+  },
+  {
+    "selrafsi": "frati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fra"]
+  },
+  {
+    "selrafsi": "fraxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fax"]
+  },
+  {
+    "selrafsi": "frica",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fic"]
+  },
+  {
+    "selrafsi": "friko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fi'o"]
+  },
+  {
+    "selrafsi": "frili",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fil"]
+  },
+  {
+    "selrafsi": "frinu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "friti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fit"]
+  },
+  {
+    "selrafsi": "frumu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fru"]
+  },
+  {
+    "selrafsi": "fukpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fuk", "fu'i"]
+  },
+  {
+    "selrafsi": "fulta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ful", "flu"]
+  },
+  {
+    "selrafsi": "funca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fun", "fu'a"]
+  },
+  {
+    "selrafsi": "fusra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fur"]
+  },
+  {
+    "selrafsi": "fuzme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["fuz", "fu'e"]
+  },
+  {
+    "selrafsi": "gacri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gai"]
+  },
+  {
+    "selrafsi": "gadri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gad"]
+  },
+  {
+    "selrafsi": "galfi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gaf", "ga'i"]
+  },
+  {
+    "selrafsi": "galtu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gal", "ga'u"]
+  },
+  {
+    "selrafsi": "galxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ganlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ga'o"]
+  },
+  {
+    "selrafsi": "ganra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gan"]
+  },
+  {
+    "selrafsi": "ganse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gas", "ga'e"]
+  },
+  {
+    "selrafsi": "ganti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ganxo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gax"]
+  },
+  {
+    "selrafsi": "ganzu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gaz"]
+  },
+  {
+    "selrafsi": "gapci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gac"]
+  },
+  {
+    "selrafsi": "gapru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gap"]
+  },
+  {
+    "selrafsi": "garna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gar"]
+  },
+  {
+    "selrafsi": "gasnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gau"]
+  },
+  {
+    "selrafsi": "gaspo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gasta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gat"]
+  },
+  {
+    "selrafsi": "genja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gej"]
+  },
+  {
+    "selrafsi": "gento",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["get", "ge'o"]
+  },
+  {
+    "selrafsi": "genxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gex"]
+  },
+  {
+    "selrafsi": "gerku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ger", "ge'u"]
+  },
+  {
+    "selrafsi": "gerna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gen", "ge'a"]
+  },
+  {
+    "selrafsi": "gidva",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gid", "gi'a"]
+  },
+  {
+    "selrafsi": "gigdo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gig", "gi'o"]
+  },
+  {
+    "selrafsi": "ginka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gik"]
+  },
+  {
+    "selrafsi": "girzu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gir", "gri"]
+  },
+  {
+    "selrafsi": "gismu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gim", "gi'u"]
+  },
+  {
+    "selrafsi": "glare",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gla"]
+  },
+  {
+    "selrafsi": "gleki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gek", "gei"]
+  },
+  {
+    "selrafsi": "gletu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["let", "gle"]
+  },
+  {
+    "selrafsi": "glico",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gic", "gli"]
+  },
+  {
+    "selrafsi": "glife",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "glosa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gluta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["glu"]
+  },
+  {
+    "selrafsi": "gocti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["goc"]
+  },
+  {
+    "selrafsi": "gomsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gotro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["got"]
+  },
+  {
+    "selrafsi": "gradu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rau"]
+  },
+  {
+    "selrafsi": "grafu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "grake",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gra"]
+  },
+  {
+    "selrafsi": "grana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ga'a"]
+  },
+  {
+    "selrafsi": "grasu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ras"]
+  },
+  {
+    "selrafsi": "grava",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "greku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rek"]
+  },
+  {
+    "selrafsi": "grusi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rus"]
+  },
+  {
+    "selrafsi": "grute",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rut"]
+  },
+  {
+    "selrafsi": "gubni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gub"]
+  },
+  {
+    "selrafsi": "gugde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gug", "gu'e"]
+  },
+  {
+    "selrafsi": "gugle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gumri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gundi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gud"]
+  },
+  {
+    "selrafsi": "gunka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gun", "gu'a"]
+  },
+  {
+    "selrafsi": "gunma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gum"]
+  },
+  {
+    "selrafsi": "gunro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gur", "gu'o"]
+  },
+  {
+    "selrafsi": "gunse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gunta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gut"]
+  },
+  {
+    "selrafsi": "gurni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gru"]
+  },
+  {
+    "selrafsi": "guska",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["guk"]
+  },
+  {
+    "selrafsi": "gusni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gus", "gu'i"]
+  },
+  {
+    "selrafsi": "gusta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "gutci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["guc"]
+  },
+  {
+    "selrafsi": "gutra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "guzme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["guz", "zme"]
+  },
+  {
+    "selrafsi": "jabre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jadni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jad", "ja'i"]
+  },
+  {
+    "selrafsi": "jakne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jalge",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jag", "ja'e"]
+  },
+  {
+    "selrafsi": "jalna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jalra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jamfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jaf", "jma"]
+  },
+  {
+    "selrafsi": "jamna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jam"]
+  },
+  {
+    "selrafsi": "janbe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jab"]
+  },
+  {
+    "selrafsi": "janco",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jan"]
+  },
+  {
+    "selrafsi": "janli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jal"]
+  },
+  {
+    "selrafsi": "jansu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jas"]
+  },
+  {
+    "selrafsi": "janta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jat"]
+  },
+  {
+    "selrafsi": "jarbu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jarco",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ja'o"]
+  },
+  {
+    "selrafsi": "jarki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jak"]
+  },
+  {
+    "selrafsi": "jaspu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jap"]
+  },
+  {
+    "selrafsi": "jatna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ja'a"]
+  },
+  {
+    "selrafsi": "javni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jva"]
+  },
+  {
+    "selrafsi": "jbama",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bam"]
+  },
+  {
+    "selrafsi": "jbari",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jba"]
+  },
+  {
+    "selrafsi": "jbena",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jbe"]
+  },
+  {
+    "selrafsi": "jbera",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jer"]
+  },
+  {
+    "selrafsi": "jbini",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bin", "bi'i"]
+  },
+  {
+    "selrafsi": "jdari",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jar"]
+  },
+  {
+    "selrafsi": "jdice",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jdi"]
+  },
+  {
+    "selrafsi": "jdika",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jdima",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["di'a"]
+  },
+  {
+    "selrafsi": "jdini",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["din", "di'i"]
+  },
+  {
+    "selrafsi": "jduli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dul", "jdu"]
+  },
+  {
+    "selrafsi": "jecta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jec", "je'a"]
+  },
+  {
+    "selrafsi": "jeftu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jef"]
+  },
+  {
+    "selrafsi": "jegvo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jeg", "je'o"]
+  },
+  {
+    "selrafsi": "jelca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jel"]
+  },
+  {
+    "selrafsi": "jemna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jme"]
+  },
+  {
+    "selrafsi": "jenca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jen"]
+  },
+  {
+    "selrafsi": "jendu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jed"]
+  },
+  {
+    "selrafsi": "jenmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jem", "jei"]
+  },
+  {
+    "selrafsi": "jensi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jerna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jersi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["je'i"]
+  },
+  {
+    "selrafsi": "jerxo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jex"]
+  },
+  {
+    "selrafsi": "jesni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jes"]
+  },
+  {
+    "selrafsi": "jetce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["je'e"]
+  },
+  {
+    "selrafsi": "jetnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jet", "je'u"]
+  },
+  {
+    "selrafsi": "jgalu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ja'u"]
+  },
+  {
+    "selrafsi": "jganu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jga"]
+  },
+  {
+    "selrafsi": "jgari",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jai"]
+  },
+  {
+    "selrafsi": "jgena",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jge"]
+  },
+  {
+    "selrafsi": "jgina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gin"]
+  },
+  {
+    "selrafsi": "jgira",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jgi"]
+  },
+  {
+    "selrafsi": "jgita",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["git"]
+  },
+  {
+    "selrafsi": "jibni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jbi"]
+  },
+  {
+    "selrafsi": "jibri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jib"]
+  },
+  {
+    "selrafsi": "jicla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jicmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cmu"]
+  },
+  {
+    "selrafsi": "jijnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jij"]
+  },
+  {
+    "selrafsi": "jikca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jik"]
+  },
+  {
+    "selrafsi": "jikfi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jikni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jikru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jilka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jil"]
+  },
+  {
+    "selrafsi": "jilra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jimca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jic"]
+  },
+  {
+    "selrafsi": "jimpe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jmi"]
+  },
+  {
+    "selrafsi": "jimte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jit"]
+  },
+  {
+    "selrafsi": "jinci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jinda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jinga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jig", "ji'a"]
+  },
+  {
+    "selrafsi": "jinku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jinme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jim"]
+  },
+  {
+    "selrafsi": "jinru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jir"]
+  },
+  {
+    "selrafsi": "jinsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jis"]
+  },
+  {
+    "selrafsi": "jinto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jinvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jiv", "ji'i"]
+  },
+  {
+    "selrafsi": "jinzi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jiz"]
+  },
+  {
+    "selrafsi": "jipci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jipno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jip", "ji'o"]
+  },
+  {
+    "selrafsi": "jirna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jisra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jitfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jif"]
+  },
+  {
+    "selrafsi": "jitro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tro"]
+  },
+  {
+    "selrafsi": "jivbu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jivna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jvi"]
+  },
+  {
+    "selrafsi": "jmaji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jaj"]
+  },
+  {
+    "selrafsi": "jmifa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jmina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["min"]
+  },
+  {
+    "selrafsi": "jmive",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["miv", "ji'e"]
+  },
+  {
+    "selrafsi": "jonse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jordo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jor", "jo'o"]
+  },
+  {
+    "selrafsi": "jorne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jon", "jo'e"]
+  },
+  {
+    "selrafsi": "jubme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jub", "jbu"]
+  },
+  {
+    "selrafsi": "judri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jufra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["juf", "ju'a"]
+  },
+  {
+    "selrafsi": "jukni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["juk"]
+  },
+  {
+    "selrafsi": "jukpa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jup"]
+  },
+  {
+    "selrafsi": "julne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ju'e"]
+  },
+  {
+    "selrafsi": "julro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jundi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jud", "ju'i"]
+  },
+  {
+    "selrafsi": "jungo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jug"]
+  },
+  {
+    "selrafsi": "junla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jul"]
+  },
+  {
+    "selrafsi": "junri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jur"]
+  },
+  {
+    "selrafsi": "junta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "jurme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jum"]
+  },
+  {
+    "selrafsi": "jursa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jus"]
+  },
+  {
+    "selrafsi": "jutsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jut"]
+  },
+  {
+    "selrafsi": "juxre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jux"]
+  },
+  {
+    "selrafsi": "jvinu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vin", "ji'u"]
+  },
+  {
+    "selrafsi": "jviso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kabri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kacma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kadno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kafke",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kagni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kag"]
+  },
+  {
+    "selrafsi": "kajde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jde"]
+  },
+  {
+    "selrafsi": "kajna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kakne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ka'e"]
+  },
+  {
+    "selrafsi": "kakpa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kalci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kalri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kar"]
+  },
+  {
+    "selrafsi": "kalsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kas"]
+  },
+  {
+    "selrafsi": "kalte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kat"]
+  },
+  {
+    "selrafsi": "kamju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kamni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kampu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kau"]
+  },
+  {
+    "selrafsi": "kamre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kanba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kancu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kac"]
+  },
+  {
+    "selrafsi": "kandi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kad"]
+  },
+  {
+    "selrafsi": "kanji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kaj"]
+  },
+  {
+    "selrafsi": "kanla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kal"]
+  },
+  {
+    "selrafsi": "kanpe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kanro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ka'o"]
+  },
+  {
+    "selrafsi": "kansa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kan"]
+  },
+  {
+    "selrafsi": "kantu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ka'u"]
+  },
+  {
+    "selrafsi": "kanxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kax"]
+  },
+  {
+    "selrafsi": "karbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kab"]
+  },
+  {
+    "selrafsi": "karce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "karda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kargu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "karli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "karni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "katci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "katna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ka'a"]
+  },
+  {
+    "selrafsi": "kavbu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kav"]
+  },
+  {
+    "selrafsi": "kazra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kecti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kec", "ke'i"]
+  },
+  {
+    "selrafsi": "kekli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kelci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kel", "kei"]
+  },
+  {
+    "selrafsi": "kelvo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ke'o"]
+  },
+  {
+    "selrafsi": "kenka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kenra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ken"]
+  },
+  {
+    "selrafsi": "kensa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kes"]
+  },
+  {
+    "selrafsi": "kerfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kre"]
+  },
+  {
+    "selrafsi": "kerlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ker"]
+  },
+  {
+    "selrafsi": "kesri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ketco",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ket", "tco"]
+  },
+  {
+    "selrafsi": "ketsu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kevna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kev", "ke'a"]
+  },
+  {
+    "selrafsi": "kicne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kic", "ki'e"]
+  },
+  {
+    "selrafsi": "kijno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kij"]
+  },
+  {
+    "selrafsi": "kilto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ki'o"]
+  },
+  {
+    "selrafsi": "kinda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kinli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kil"]
+  },
+  {
+    "selrafsi": "kisto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kis"]
+  },
+  {
+    "selrafsi": "klaji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["laj"]
+  },
+  {
+    "selrafsi": "klaku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kak"]
+  },
+  {
+    "selrafsi": "klama",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kla"]
+  },
+  {
+    "selrafsi": "klani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lai"]
+  },
+  {
+    "selrafsi": "klesi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kle", "lei"]
+  },
+  {
+    "selrafsi": "kliki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "klina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kli"]
+  },
+  {
+    "selrafsi": "kliru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kliti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kit"]
+  },
+  {
+    "selrafsi": "klupe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lup", "lu'e"]
+  },
+  {
+    "selrafsi": "kluza",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["luz"]
+  },
+  {
+    "selrafsi": "kobli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kob", "ko'i"]
+  },
+  {
+    "selrafsi": "kogno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kojna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["koj", "ko'a"]
+  },
+  {
+    "selrafsi": "kokso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kolme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kol", "ko'e"]
+  },
+  {
+    "selrafsi": "komcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kom"]
+  },
+  {
+    "selrafsi": "konju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kon", "ko'u"]
+  },
+  {
+    "selrafsi": "korbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kor", "koi"]
+  },
+  {
+    "selrafsi": "korcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kro"]
+  },
+  {
+    "selrafsi": "korka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kok"]
+  },
+  {
+    "selrafsi": "korvo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kosmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kosta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kos"]
+  },
+  {
+    "selrafsi": "krali",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kramu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "krasi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kra"]
+  },
+  {
+    "selrafsi": "krati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ka'i"]
+  },
+  {
+    "selrafsi": "krefu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ref", "ke'u"]
+  },
+  {
+    "selrafsi": "krici",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kri"]
+  },
+  {
+    "selrafsi": "krili",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "krinu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rin", "ki'u"]
+  },
+  {
+    "selrafsi": "krixa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kix", "ki'a"]
+  },
+  {
+    "selrafsi": "kruca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kuc"]
+  },
+  {
+    "selrafsi": "kruji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ruj"]
+  },
+  {
+    "selrafsi": "kruvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ruv", "kru"]
+  },
+  {
+    "selrafsi": "kubli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kub"]
+  },
+  {
+    "selrafsi": "kucli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kufra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kuf"]
+  },
+  {
+    "selrafsi": "kukte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kuk"]
+  },
+  {
+    "selrafsi": "kulnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["klu"]
+  },
+  {
+    "selrafsi": "kumfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kum", "ku'a"]
+  },
+  {
+    "selrafsi": "kumte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kunra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kun"]
+  },
+  {
+    "selrafsi": "kunti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kut"]
+  },
+  {
+    "selrafsi": "kurfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kur"]
+  },
+  {
+    "selrafsi": "kurji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kuj", "ku'i"]
+  },
+  {
+    "selrafsi": "kurki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kuspe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kup", "ku'e"]
+  },
+  {
+    "selrafsi": "kusru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kus"]
+  },
+  {
+    "selrafsi": "labno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lacni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lacpu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lap", "cpu"]
+  },
+  {
+    "selrafsi": "lacri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lac"]
+  },
+  {
+    "selrafsi": "ladru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lad"]
+  },
+  {
+    "selrafsi": "lafti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["laf"]
+  },
+  {
+    "selrafsi": "lakne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["la'e"]
+  },
+  {
+    "selrafsi": "lakse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lak"]
+  },
+  {
+    "selrafsi": "laldo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lalxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["la'u"]
+  },
+  {
+    "selrafsi": "lamji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lam", "la'i"]
+  },
+  {
+    "selrafsi": "lanbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lanci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "landa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lanka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lanli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lal"]
+  },
+  {
+    "selrafsi": "lanme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lan"]
+  },
+  {
+    "selrafsi": "lante",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lanxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lax"]
+  },
+  {
+    "selrafsi": "lanzu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["laz"]
+  },
+  {
+    "selrafsi": "larcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lar"]
+  },
+  {
+    "selrafsi": "larva",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lasna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["la'a"]
+  },
+  {
+    "selrafsi": "lastu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "latmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["la'o"]
+  },
+  {
+    "selrafsi": "latna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lazni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lebna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["leb", "le'a"]
+  },
+  {
+    "selrafsi": "lelxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lenga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lenjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["len", "le'o"]
+  },
+  {
+    "selrafsi": "lenku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lek"]
+  },
+  {
+    "selrafsi": "lerci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lec"]
+  },
+  {
+    "selrafsi": "lerfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ler", "le'u"]
+  },
+  {
+    "selrafsi": "libjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lib"]
+  },
+  {
+    "selrafsi": "lidne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["li'e"]
+  },
+  {
+    "selrafsi": "lifri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lif", "fri"]
+  },
+  {
+    "selrafsi": "lijda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["jda"]
+  },
+  {
+    "selrafsi": "limfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "limna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lim"]
+  },
+  {
+    "selrafsi": "lince",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lindi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lid"]
+  },
+  {
+    "selrafsi": "linga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "linji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lij", "li'i"]
+  },
+  {
+    "selrafsi": "linsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lin"]
+  },
+  {
+    "selrafsi": "linto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["li'o"]
+  },
+  {
+    "selrafsi": "lisri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lis"]
+  },
+  {
+    "selrafsi": "liste",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ste"]
+  },
+  {
+    "selrafsi": "litce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lic"]
+  },
+  {
+    "selrafsi": "litki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lik"]
+  },
+  {
+    "selrafsi": "litru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["li'u"]
+  },
+  {
+    "selrafsi": "livga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "livla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lil"]
+  },
+  {
+    "selrafsi": "logji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["loj"]
+  },
+  {
+    "selrafsi": "loglo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lojbo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lob", "jbo"]
+  },
+  {
+    "selrafsi": "loldi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lol", "loi"]
+  },
+  {
+    "selrafsi": "lorxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lor", "lo'u"]
+  },
+  {
+    "selrafsi": "lubno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lu'o"]
+  },
+  {
+    "selrafsi": "lujvo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["luv", "jvo"]
+  },
+  {
+    "selrafsi": "luksi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lumci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lum", "lu'i"]
+  },
+  {
+    "selrafsi": "lunbe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lub"]
+  },
+  {
+    "selrafsi": "lunra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lur"]
+  },
+  {
+    "selrafsi": "lunsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lus"]
+  },
+  {
+    "selrafsi": "luska",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lusto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mabla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mal"]
+  },
+  {
+    "selrafsi": "mabru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mab"]
+  },
+  {
+    "selrafsi": "macnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cnu"]
+  },
+  {
+    "selrafsi": "majga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "makcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ma'u"]
+  },
+  {
+    "selrafsi": "makfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["maf"]
+  },
+  {
+    "selrafsi": "maksi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mak"]
+  },
+  {
+    "selrafsi": "malsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mas"]
+  },
+  {
+    "selrafsi": "mamta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mam"]
+  },
+  {
+    "selrafsi": "manci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mac"]
+  },
+  {
+    "selrafsi": "manfo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mango",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "manku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["man"]
+  },
+  {
+    "selrafsi": "manri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mar"]
+  },
+  {
+    "selrafsi": "mansa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "manti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mapku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["map"]
+  },
+  {
+    "selrafsi": "mapni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mapra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mapti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mat"]
+  },
+  {
+    "selrafsi": "marbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mra"]
+  },
+  {
+    "selrafsi": "marce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ma'e"]
+  },
+  {
+    "selrafsi": "marde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mad"]
+  },
+  {
+    "selrafsi": "margu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mag"]
+  },
+  {
+    "selrafsi": "marji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["maj", "mai"]
+  },
+  {
+    "selrafsi": "marna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "marxa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["max"]
+  },
+  {
+    "selrafsi": "masno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sno"]
+  },
+  {
+    "selrafsi": "masti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ma'i"]
+  },
+  {
+    "selrafsi": "matci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "matli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "matne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "matra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mavji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mav"]
+  },
+  {
+    "selrafsi": "maxri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xri"]
+  },
+  {
+    "selrafsi": "mebri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["meb"]
+  },
+  {
+    "selrafsi": "megdo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["meg"]
+  },
+  {
+    "selrafsi": "mekso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mek", "me'o"]
+  },
+  {
+    "selrafsi": "melbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mel", "mle"]
+  },
+  {
+    "selrafsi": "meljo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mej"]
+  },
+  {
+    "selrafsi": "melmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "menli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["men"]
+  },
+  {
+    "selrafsi": "menre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mensi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mes", "me'i"]
+  },
+  {
+    "selrafsi": "mentu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["met", "me'u"]
+  },
+  {
+    "selrafsi": "merko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mer"]
+  },
+  {
+    "selrafsi": "merli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mre"]
+  },
+  {
+    "selrafsi": "metfo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mexno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mex"]
+  },
+  {
+    "selrafsi": "midju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mij"]
+  },
+  {
+    "selrafsi": "mifra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mif"]
+  },
+  {
+    "selrafsi": "mikce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mic"]
+  },
+  {
+    "selrafsi": "mikri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mik"]
+  },
+  {
+    "selrafsi": "milti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mil"]
+  },
+  {
+    "selrafsi": "milxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mli"]
+  },
+  {
+    "selrafsi": "minde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mid", "mi'e"]
+  },
+  {
+    "selrafsi": "minji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mi'i"]
+  },
+  {
+    "selrafsi": "minli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "minra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mir"]
+  },
+  {
+    "selrafsi": "mintu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mit", "mi'u"]
+  },
+  {
+    "selrafsi": "mipri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mip"]
+  },
+  {
+    "selrafsi": "mirli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "misno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mis", "mi'o"]
+  },
+  {
+    "selrafsi": "misro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mitre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tre"]
+  },
+  {
+    "selrafsi": "mixre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mix", "xre"]
+  },
+  {
+    "selrafsi": "mlana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mla"]
+  },
+  {
+    "selrafsi": "mlatu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lat"]
+  },
+  {
+    "selrafsi": "mleca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mec", "me'a"]
+  },
+  {
+    "selrafsi": "mledi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["led"]
+  },
+  {
+    "selrafsi": "mluni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lun"]
+  },
+  {
+    "selrafsi": "mogle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mokca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["moc"]
+  },
+  {
+    "selrafsi": "moklu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mol", "mo'u"]
+  },
+  {
+    "selrafsi": "molki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mlo"]
+  },
+  {
+    "selrafsi": "molro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mo'o"]
+  },
+  {
+    "selrafsi": "morji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["moj", "mo'i"]
+  },
+  {
+    "selrafsi": "morko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mor"]
+  },
+  {
+    "selrafsi": "morna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mon", "mo'a"]
+  },
+  {
+    "selrafsi": "morsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mro"]
+  },
+  {
+    "selrafsi": "mosra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mos"]
+  },
+  {
+    "selrafsi": "mraji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mrilu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mri"]
+  },
+  {
+    "selrafsi": "mruli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mru"]
+  },
+  {
+    "selrafsi": "mucti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mut"]
+  },
+  {
+    "selrafsi": "mudri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mud"]
+  },
+  {
+    "selrafsi": "mugle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "mukti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["muk", "mu'i"]
+  },
+  {
+    "selrafsi": "mulno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mul", "mu'o"]
+  },
+  {
+    "selrafsi": "munje",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["muj", "mu'e"]
+  },
+  {
+    "selrafsi": "mupli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mup"]
+  },
+  {
+    "selrafsi": "murse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "murta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mur", "mu'a"]
+  },
+  {
+    "selrafsi": "muslo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mus"]
+  },
+  {
+    "selrafsi": "mutce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tce"]
+  },
+  {
+    "selrafsi": "muvdu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["muv", "mu'u"]
+  },
+  {
+    "selrafsi": "muzga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["muz"]
+  },
+  {
+    "selrafsi": "nabmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nam"]
+  },
+  {
+    "selrafsi": "nakni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nak"]
+  },
+  {
+    "selrafsi": "nalci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["na'i"]
+  },
+  {
+    "selrafsi": "namcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nac", "na'u"]
+  },
+  {
+    "selrafsi": "nanba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nab"]
+  },
+  {
+    "selrafsi": "nanca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["na'a"]
+  },
+  {
+    "selrafsi": "nandu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nad"]
+  },
+  {
+    "selrafsi": "nanla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nanmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nau"]
+  },
+  {
+    "selrafsi": "nanvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nav"]
+  },
+  {
+    "selrafsi": "narge",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nag"]
+  },
+  {
+    "selrafsi": "narju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["naj"]
+  },
+  {
+    "selrafsi": "natfe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["naf", "na'e"]
+  },
+  {
+    "selrafsi": "natmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nat", "nai"]
+  },
+  {
+    "selrafsi": "natsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "navni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "naxle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nax", "xle"]
+  },
+  {
+    "selrafsi": "nazbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["naz", "zbi"]
+  },
+  {
+    "selrafsi": "nejni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nen"]
+  },
+  {
+    "selrafsi": "nelci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nel", "nei"]
+  },
+  {
+    "selrafsi": "nenri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ner", "ne'i"]
+  },
+  {
+    "selrafsi": "nerde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nibli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nib", "ni'i"]
+  },
+  {
+    "selrafsi": "nicfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nicte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cte"]
+  },
+  {
+    "selrafsi": "nikle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nik"]
+  },
+  {
+    "selrafsi": "nilce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ni'e"]
+  },
+  {
+    "selrafsi": "nimre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ninja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ninmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nim", "ni'u"]
+  },
+  {
+    "selrafsi": "nirna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nir"]
+  },
+  {
+    "selrafsi": "nitcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tcu"]
+  },
+  {
+    "selrafsi": "nivji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["niv"]
+  },
+  {
+    "selrafsi": "nixli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nix", "xli"]
+  },
+  {
+    "selrafsi": "nobli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nol", "no'i"]
+  },
+  {
+    "selrafsi": "norgo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "notci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["not", "noi"]
+  },
+  {
+    "selrafsi": "nudle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nukni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nuk"]
+  },
+  {
+    "selrafsi": "nunmu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nupre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nup", "nu'e"]
+  },
+  {
+    "selrafsi": "nurma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["num"]
+  },
+  {
+    "selrafsi": "nusna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nutka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "nutli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nul", "nu'i"]
+  },
+  {
+    "selrafsi": "nuzba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nuz"]
+  },
+  {
+    "selrafsi": "nuzlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pacna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pa'a"]
+  },
+  {
+    "selrafsi": "pagbu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pag", "pau"]
+  },
+  {
+    "selrafsi": "pagre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["gre"]
+  },
+  {
+    "selrafsi": "pajni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pai"]
+  },
+  {
+    "selrafsi": "palci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pac"]
+  },
+  {
+    "selrafsi": "palku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pak"]
+  },
+  {
+    "selrafsi": "palma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "palne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "palpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "palta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pambe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pamga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "panci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pan"]
+  },
+  {
+    "selrafsi": "pandi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pad"]
+  },
+  {
+    "selrafsi": "panje",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "panka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "panlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pa'o"]
+  },
+  {
+    "selrafsi": "panpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pap"]
+  },
+  {
+    "selrafsi": "panra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pante",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pat"]
+  },
+  {
+    "selrafsi": "panzi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["paz"]
+  },
+  {
+    "selrafsi": "papri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "parbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pab"]
+  },
+  {
+    "selrafsi": "pardu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "parji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pastu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pas"]
+  },
+  {
+    "selrafsi": "patfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["paf", "pa'u"]
+  },
+  {
+    "selrafsi": "patlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "patxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pax"]
+  },
+  {
+    "selrafsi": "paznu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pelji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ple"]
+  },
+  {
+    "selrafsi": "pelxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pel"]
+  },
+  {
+    "selrafsi": "pemci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pem"]
+  },
+  {
+    "selrafsi": "penbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["peb"]
+  },
+  {
+    "selrafsi": "pencu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pec", "pe'u"]
+  },
+  {
+    "selrafsi": "pendo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ped", "pe'o"]
+  },
+  {
+    "selrafsi": "penmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pen", "pe'i"]
+  },
+  {
+    "selrafsi": "pensi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pes", "pei"]
+  },
+  {
+    "selrafsi": "pentu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "perli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["per"]
+  },
+  {
+    "selrafsi": "pesxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pex"]
+  },
+  {
+    "selrafsi": "petso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pet"]
+  },
+  {
+    "selrafsi": "pevna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pezli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pez"]
+  },
+  {
+    "selrafsi": "picti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pic"]
+  },
+  {
+    "selrafsi": "pijne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pikci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pikta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pilda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pilji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pi'i"]
+  },
+  {
+    "selrafsi": "pilka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pil", "pi'a"]
+  },
+  {
+    "selrafsi": "pilno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pli"]
+  },
+  {
+    "selrafsi": "pimlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pim", "pi'u"]
+  },
+  {
+    "selrafsi": "pinca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pindi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pid"]
+  },
+  {
+    "selrafsi": "pinfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pif"]
+  },
+  {
+    "selrafsi": "pinji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pinka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pik"]
+  },
+  {
+    "selrafsi": "pinsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pis"]
+  },
+  {
+    "selrafsi": "pinta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pin"]
+  },
+  {
+    "selrafsi": "pinxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pix"]
+  },
+  {
+    "selrafsi": "pipno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pi'o"]
+  },
+  {
+    "selrafsi": "pixra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pir", "xra"]
+  },
+  {
+    "selrafsi": "plana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "platu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pla"]
+  },
+  {
+    "selrafsi": "pleji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lej", "le'i"]
+  },
+  {
+    "selrafsi": "plibu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pib"]
+  },
+  {
+    "selrafsi": "plini",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "plipe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pip", "pi'e"]
+  },
+  {
+    "selrafsi": "plise",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "plita",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pit"]
+  },
+  {
+    "selrafsi": "plixa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lix"]
+  },
+  {
+    "selrafsi": "pluja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["luj"]
+  },
+  {
+    "selrafsi": "pluka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["puk", "pu'a"]
+  },
+  {
+    "selrafsi": "pluta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lut", "lu'a"]
+  },
+  {
+    "selrafsi": "pocli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "polje",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["plo"]
+  },
+  {
+    "selrafsi": "polno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pol"]
+  },
+  {
+    "selrafsi": "ponjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pon", "po'o"]
+  },
+  {
+    "selrafsi": "ponse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pos", "po'e"]
+  },
+  {
+    "selrafsi": "poplu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "porpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pop", "po'i"]
+  },
+  {
+    "selrafsi": "porsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["por", "poi"]
+  },
+  {
+    "selrafsi": "porto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pot"]
+  },
+  {
+    "selrafsi": "prali",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pal"]
+  },
+  {
+    "selrafsi": "prami",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pam", "pa'i"]
+  },
+  {
+    "selrafsi": "prane",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pa'e"]
+  },
+  {
+    "selrafsi": "preja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pej", "pe'a"]
+  },
+  {
+    "selrafsi": "prenu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pre"]
+  },
+  {
+    "selrafsi": "preri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "preti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ret", "rei"]
+  },
+  {
+    "selrafsi": "prije",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pij"]
+  },
+  {
+    "selrafsi": "prina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pri"]
+  },
+  {
+    "selrafsi": "pritu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "proga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "prosa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ros", "ro'a"]
+  },
+  {
+    "selrafsi": "pruce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ruc", "ru'e"]
+  },
+  {
+    "selrafsi": "pruni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pun"]
+  },
+  {
+    "selrafsi": "pruri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pruxi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rux", "ru'i"]
+  },
+  {
+    "selrafsi": "pulce",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["puc", "pu'e"]
+  },
+  {
+    "selrafsi": "pulji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "pulni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "punji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["puj", "pu'i"]
+  },
+  {
+    "selrafsi": "punli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pul"]
+  },
+  {
+    "selrafsi": "pupsu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "purci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pur", "pru"]
+  },
+  {
+    "selrafsi": "purdi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pud"]
+  },
+  {
+    "selrafsi": "purmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pum", "pu'o"]
+  },
+  {
+    "selrafsi": "racli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ractu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "radno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ra'o"]
+  },
+  {
+    "selrafsi": "rafsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["raf"]
+  },
+  {
+    "selrafsi": "ragbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ragve",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rav"]
+  },
+  {
+    "selrafsi": "rakle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "rakso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "raktu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ra'u"]
+  },
+  {
+    "selrafsi": "ralci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rac"]
+  },
+  {
+    "selrafsi": "ralju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ral"]
+  },
+  {
+    "selrafsi": "ralte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ra'e"]
+  },
+  {
+    "selrafsi": "randa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rad"]
+  },
+  {
+    "selrafsi": "rango",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rag"]
+  },
+  {
+    "selrafsi": "ranji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ra'i"]
+  },
+  {
+    "selrafsi": "ranmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ram"]
+  },
+  {
+    "selrafsi": "ransu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ranti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ran"]
+  },
+  {
+    "selrafsi": "ranxi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rax"]
+  },
+  {
+    "selrafsi": "rapli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rap"]
+  },
+  {
+    "selrafsi": "rarna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rar"]
+  },
+  {
+    "selrafsi": "ratcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ratni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rat"]
+  },
+  {
+    "selrafsi": "rebla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["reb"]
+  },
+  {
+    "selrafsi": "rectu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rec", "re'u"]
+  },
+  {
+    "selrafsi": "rekto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "remna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rem", "re'a"]
+  },
+  {
+    "selrafsi": "renro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rer", "re'o"]
+  },
+  {
+    "selrafsi": "renvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rev", "re'i"]
+  },
+  {
+    "selrafsi": "respa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["res"]
+  },
+  {
+    "selrafsi": "rexsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ricfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rif", "cfu"]
+  },
+  {
+    "selrafsi": "rigni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rig"]
+  },
+  {
+    "selrafsi": "rijno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rij"]
+  },
+  {
+    "selrafsi": "rilti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ril"]
+  },
+  {
+    "selrafsi": "rimni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rim"]
+  },
+  {
+    "selrafsi": "rinci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "rindo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "rinju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ri'u"]
+  },
+  {
+    "selrafsi": "rinka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rik", "ri'a"]
+  },
+  {
+    "selrafsi": "rinsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "rirci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "rirni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rir"]
+  },
+  {
+    "selrafsi": "rirxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ri'e"]
+  },
+  {
+    "selrafsi": "rismi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ris"]
+  },
+  {
+    "selrafsi": "risna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ritli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ri'i"]
+  },
+  {
+    "selrafsi": "rivbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["riv"]
+  },
+  {
+    "selrafsi": "rokci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rok", "ro'i"]
+  },
+  {
+    "selrafsi": "romge",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rog"]
+  },
+  {
+    "selrafsi": "romlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ronte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "ropno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ron", "ro'o"]
+  },
+  {
+    "selrafsi": "rorci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ror"]
+  },
+  {
+    "selrafsi": "rotsu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rot", "tsu", "ro'u"]
+  },
+  {
+    "selrafsi": "rozgu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["roz", "zgu"]
+  },
+  {
+    "selrafsi": "ruble",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rub", "ble"]
+  },
+  {
+    "selrafsi": "rufsu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ruf"]
+  },
+  {
+    "selrafsi": "runme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rum"]
+  },
+  {
+    "selrafsi": "runta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "rupnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rup", "ru'u"]
+  },
+  {
+    "selrafsi": "rusko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ruk", "ru'o"]
+  },
+  {
+    "selrafsi": "rutni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["run"]
+  },
+  {
+    "selrafsi": "sabji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sab"]
+  },
+  {
+    "selrafsi": "sabnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sacki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "saclu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sadjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["djo"]
+  },
+  {
+    "selrafsi": "sakci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sak"]
+  },
+  {
+    "selrafsi": "sakli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sal"]
+  },
+  {
+    "selrafsi": "sakta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sat"]
+  },
+  {
+    "selrafsi": "salci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sla"]
+  },
+  {
+    "selrafsi": "salpo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sa'o"]
+  },
+  {
+    "selrafsi": "salri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "salta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "samcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sampu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sap"]
+  },
+  {
+    "selrafsi": "sanbu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sance",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sna"]
+  },
+  {
+    "selrafsi": "sanga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sag", "sa'a"]
+  },
+  {
+    "selrafsi": "sanji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["saj"]
+  },
+  {
+    "selrafsi": "sanli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sa'i"]
+  },
+  {
+    "selrafsi": "sanmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sai"]
+  },
+  {
+    "selrafsi": "sanso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "santa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sarcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sa'u"]
+  },
+  {
+    "selrafsi": "sarji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sra"]
+  },
+  {
+    "selrafsi": "sarlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sarni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sarxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sax"]
+  },
+  {
+    "selrafsi": "saske",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ske"]
+  },
+  {
+    "selrafsi": "satci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "satre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sa'e"]
+  },
+  {
+    "selrafsi": "savru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sav", "vru"]
+  },
+  {
+    "selrafsi": "sazri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["saz"]
+  },
+  {
+    "selrafsi": "sefsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sefta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sfe"]
+  },
+  {
+    "selrafsi": "sekre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "selci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sle"]
+  },
+  {
+    "selrafsi": "selfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sef", "se'u"]
+  },
+  {
+    "selrafsi": "semto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sme"]
+  },
+  {
+    "selrafsi": "senci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sec"]
+  },
+  {
+    "selrafsi": "sengi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "senpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sen"]
+  },
+  {
+    "selrafsi": "senta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["set"]
+  },
+  {
+    "selrafsi": "senva",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sev", "sne"]
+  },
+  {
+    "selrafsi": "sepli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sep", "sei"]
+  },
+  {
+    "selrafsi": "serti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ser"]
+  },
+  {
+    "selrafsi": "sesre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "setca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["se'a"]
+  },
+  {
+    "selrafsi": "sevzi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sez", "se'i"]
+  },
+  {
+    "selrafsi": "sfani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sfasa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sfa"]
+  },
+  {
+    "selrafsi": "sfofa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sfo"]
+  },
+  {
+    "selrafsi": "sfubu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sub", "su'u"]
+  },
+  {
+    "selrafsi": "sibli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "siclu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sil"]
+  },
+  {
+    "selrafsi": "sicni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["si'i"]
+  },
+  {
+    "selrafsi": "sicpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sidbo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sib", "si'o"]
+  },
+  {
+    "selrafsi": "sidju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["dju"]
+  },
+  {
+    "selrafsi": "sigja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sig"]
+  },
+  {
+    "selrafsi": "sigma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sikta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "silka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sik"]
+  },
+  {
+    "selrafsi": "silna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "simlu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mlu"]
+  },
+  {
+    "selrafsi": "simsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["smi"]
+  },
+  {
+    "selrafsi": "simxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sim", "si'u"]
+  },
+  {
+    "selrafsi": "since",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sinma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["si'a"]
+  },
+  {
+    "selrafsi": "sinso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sinxa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sni"]
+  },
+  {
+    "selrafsi": "sipna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sip"]
+  },
+  {
+    "selrafsi": "sirji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sir"]
+  },
+  {
+    "selrafsi": "sirxo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["six"]
+  },
+  {
+    "selrafsi": "sisku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sis"]
+  },
+  {
+    "selrafsi": "sisti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sti"]
+  },
+  {
+    "selrafsi": "sitna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sit"]
+  },
+  {
+    "selrafsi": "sivni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["siv"]
+  },
+  {
+    "selrafsi": "skaci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "skami",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sam"]
+  },
+  {
+    "selrafsi": "skapi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kap"]
+  },
+  {
+    "selrafsi": "skari",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ska"]
+  },
+  {
+    "selrafsi": "skicu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ski"]
+  },
+  {
+    "selrafsi": "skiji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sij"]
+  },
+  {
+    "selrafsi": "skina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kin"]
+  },
+  {
+    "selrafsi": "skori",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sko"]
+  },
+  {
+    "selrafsi": "skoto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["kot", "ko'o"]
+  },
+  {
+    "selrafsi": "skuba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "skuro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ku'o"]
+  },
+  {
+    "selrafsi": "slabu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sau"]
+  },
+  {
+    "selrafsi": "slaka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "slami",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "slanu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "slari",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sar"]
+  },
+  {
+    "selrafsi": "slasi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["las"]
+  },
+  {
+    "selrafsi": "sligu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lig"]
+  },
+  {
+    "selrafsi": "slilu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sli"]
+  },
+  {
+    "selrafsi": "sliri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "slovo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lov", "lo'o"]
+  },
+  {
+    "selrafsi": "sluji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["slu"]
+  },
+  {
+    "selrafsi": "sluni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "smacu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "smadi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "smaji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sma"]
+  },
+  {
+    "selrafsi": "smaka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "smani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "smela",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "smoka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["smo"]
+  },
+  {
+    "selrafsi": "smuci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["muc"]
+  },
+  {
+    "selrafsi": "smuni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["mun", "smu"]
+  },
+  {
+    "selrafsi": "smusu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "snada",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sad"]
+  },
+  {
+    "selrafsi": "snanu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nan"]
+  },
+  {
+    "selrafsi": "snidu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nid"]
+  },
+  {
+    "selrafsi": "snime",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["si'e"]
+  },
+  {
+    "selrafsi": "snipa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nip"]
+  },
+  {
+    "selrafsi": "snuji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nuj"]
+  },
+  {
+    "selrafsi": "snura",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nur", "nu'a"]
+  },
+  {
+    "selrafsi": "snuti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["nut"]
+  },
+  {
+    "selrafsi": "sobde",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sob", "so'e"]
+  },
+  {
+    "selrafsi": "sodna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sodva",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sod"]
+  },
+  {
+    "selrafsi": "softo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sof"]
+  },
+  {
+    "selrafsi": "solji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["slo"]
+  },
+  {
+    "selrafsi": "solri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sol"]
+  },
+  {
+    "selrafsi": "sombo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["som", "so'o"]
+  },
+  {
+    "selrafsi": "sonci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["son", "soi"]
+  },
+  {
+    "selrafsi": "sorcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["soc", "sro"]
+  },
+  {
+    "selrafsi": "sorgu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sog"]
+  },
+  {
+    "selrafsi": "sorni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sorta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sovda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sov", "so'a"]
+  },
+  {
+    "selrafsi": "spaji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["paj"]
+  },
+  {
+    "selrafsi": "spali",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "spano",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["san"]
+  },
+  {
+    "selrafsi": "spati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["spa"]
+  },
+  {
+    "selrafsi": "speni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["spe"]
+  },
+  {
+    "selrafsi": "spero",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "spisa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["spi"]
+  },
+  {
+    "selrafsi": "spita",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "spofu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["pof", "po'u"]
+  },
+  {
+    "selrafsi": "spoja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["poj", "po'a"]
+  },
+  {
+    "selrafsi": "spuda",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["spu"]
+  },
+  {
+    "selrafsi": "sputu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["put", "pu'u"]
+  },
+  {
+    "selrafsi": "sraji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["raj"]
+  },
+  {
+    "selrafsi": "sraku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rak"]
+  },
+  {
+    "selrafsi": "sralo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "srana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ra'a"]
+  },
+  {
+    "selrafsi": "srasu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sas"]
+  },
+  {
+    "selrafsi": "srera",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sre"]
+  },
+  {
+    "selrafsi": "srito",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sruma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ru'a"]
+  },
+  {
+    "selrafsi": "sruri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rur", "sru"]
+  },
+  {
+    "selrafsi": "stace",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sac"]
+  },
+  {
+    "selrafsi": "stagi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "staku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tak"]
+  },
+  {
+    "selrafsi": "stali",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sta"]
+  },
+  {
+    "selrafsi": "stani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "stapa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tap"]
+  },
+  {
+    "selrafsi": "stasu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "stati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "steba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["seb"]
+  },
+  {
+    "selrafsi": "steci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tec", "te'i"]
+  },
+  {
+    "selrafsi": "stedu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sed"]
+  },
+  {
+    "selrafsi": "stela",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tel"]
+  },
+  {
+    "selrafsi": "stero",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["te'o"]
+  },
+  {
+    "selrafsi": "stici",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sic"]
+  },
+  {
+    "selrafsi": "stidi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sid", "ti'i"]
+  },
+  {
+    "selrafsi": "stika",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tik"]
+  },
+  {
+    "selrafsi": "stizu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tiz"]
+  },
+  {
+    "selrafsi": "stodi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sto"]
+  },
+  {
+    "selrafsi": "stuna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sun"]
+  },
+  {
+    "selrafsi": "stura",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tur", "su'a"]
+  },
+  {
+    "selrafsi": "stuzi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tuz", "stu"]
+  },
+  {
+    "selrafsi": "sucta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["suc"]
+  },
+  {
+    "selrafsi": "sudga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sud"]
+  },
+  {
+    "selrafsi": "sufti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sfu"]
+  },
+  {
+    "selrafsi": "suksa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["suk"]
+  },
+  {
+    "selrafsi": "sumji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["suj"]
+  },
+  {
+    "selrafsi": "sumne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "sumti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sum", "su'i"]
+  },
+  {
+    "selrafsi": "sunga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sug"]
+  },
+  {
+    "selrafsi": "sunla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sul"]
+  },
+  {
+    "selrafsi": "surla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sur"]
+  },
+  {
+    "selrafsi": "sutra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sut"]
+  },
+  {
+    "selrafsi": "tabno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tab"]
+  },
+  {
+    "selrafsi": "tabra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tadji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tadni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tad"]
+  },
+  {
+    "selrafsi": "tagji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tag"]
+  },
+  {
+    "selrafsi": "taksi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "talsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tal"]
+  },
+  {
+    "selrafsi": "tamca",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tamji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["taj"]
+  },
+  {
+    "selrafsi": "tamne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tanbo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ta'o"]
+  },
+  {
+    "selrafsi": "tance",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tac"]
+  },
+  {
+    "selrafsi": "tanjo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tanko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tanru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tau"]
+  },
+  {
+    "selrafsi": "tansi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tas"]
+  },
+  {
+    "selrafsi": "tanxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tax", "ta'e"]
+  },
+  {
+    "selrafsi": "tapla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tarbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tarci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tar"]
+  },
+  {
+    "selrafsi": "tarla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tarmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tam", "tai"]
+  },
+  {
+    "selrafsi": "tarti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tra"]
+  },
+  {
+    "selrafsi": "taske",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tasmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tasta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tatpi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ta'i"]
+  },
+  {
+    "selrafsi": "tatru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tat"]
+  },
+  {
+    "selrafsi": "tavla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tav", "ta'a"]
+  },
+  {
+    "selrafsi": "taxfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["taf", "ta'u"]
+  },
+  {
+    "selrafsi": "tcaci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["cac"]
+  },
+  {
+    "selrafsi": "tcadu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tca"]
+  },
+  {
+    "selrafsi": "tcana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tcati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tcaxe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tcena",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ten"]
+  },
+  {
+    "selrafsi": "tcese",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tcica",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tic"]
+  },
+  {
+    "selrafsi": "tcidu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tid"]
+  },
+  {
+    "selrafsi": "tcika",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tcila",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["til"]
+  },
+  {
+    "selrafsi": "tcima",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tim", "ti'a"]
+  },
+  {
+    "selrafsi": "tcini",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tcita",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "temci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tem", "tei"]
+  },
+  {
+    "selrafsi": "temse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tende",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tenfa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tef"]
+  },
+  {
+    "selrafsi": "tengu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["teg", "te'u"]
+  },
+  {
+    "selrafsi": "terdi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ted"]
+  },
+  {
+    "selrafsi": "terpa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tep", "te'a"]
+  },
+  {
+    "selrafsi": "terto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tet"]
+  },
+  {
+    "selrafsi": "tifri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tigni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tig"]
+  },
+  {
+    "selrafsi": "tigra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tikpa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tip"]
+  },
+  {
+    "selrafsi": "tilju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tij"]
+  },
+  {
+    "selrafsi": "tinbe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tib"]
+  },
+  {
+    "selrafsi": "tinci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tinsa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tirna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tin"]
+  },
+  {
+    "selrafsi": "tirse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tir"]
+  },
+  {
+    "selrafsi": "tirxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tisna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tis"]
+  },
+  {
+    "selrafsi": "titla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tit"]
+  },
+  {
+    "selrafsi": "tivni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tiv"]
+  },
+  {
+    "selrafsi": "tixnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tix", "ti'u"]
+  },
+  {
+    "selrafsi": "toknu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tok"]
+  },
+  {
+    "selrafsi": "toldi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tod"]
+  },
+  {
+    "selrafsi": "tonga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tog", "to'a"]
+  },
+  {
+    "selrafsi": "tordu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tor", "to'u"]
+  },
+  {
+    "selrafsi": "torni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ton", "to'i"]
+  },
+  {
+    "selrafsi": "torso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "traji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rai"]
+  },
+  {
+    "selrafsi": "trano",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "trati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "trene",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ren", "re'e"]
+  },
+  {
+    "selrafsi": "tricu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ric"]
+  },
+  {
+    "selrafsi": "trina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tri"]
+  },
+  {
+    "selrafsi": "trixe",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rix", "ti'e"]
+  },
+  {
+    "selrafsi": "troci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["toc", "toi"]
+  },
+  {
+    "selrafsi": "tsaba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tsali",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tsa"]
+  },
+  {
+    "selrafsi": "tsani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tan"]
+  },
+  {
+    "selrafsi": "tsapi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tsiju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tsi"]
+  },
+  {
+    "selrafsi": "tsina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["sin"]
+  },
+  {
+    "selrafsi": "tsuku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tubnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tu'u"]
+  },
+  {
+    "selrafsi": "tubra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tugni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tug", "tu'i"]
+  },
+  {
+    "selrafsi": "tujli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tuj"]
+  },
+  {
+    "selrafsi": "tumla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tum", "tu'a"]
+  },
+  {
+    "selrafsi": "tunba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tub"]
+  },
+  {
+    "selrafsi": "tunka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tuk"]
+  },
+  {
+    "selrafsi": "tunlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tul", "tu'o"]
+  },
+  {
+    "selrafsi": "tunta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tun"]
+  },
+  {
+    "selrafsi": "tuple",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tup", "tu'e"]
+  },
+  {
+    "selrafsi": "turko",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "turni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tru"]
+  },
+  {
+    "selrafsi": "tutci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tci"]
+  },
+  {
+    "selrafsi": "tutle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tutra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["tut"]
+  },
+  {
+    "selrafsi": "vacri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["var"]
+  },
+  {
+    "selrafsi": "vajni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vaj", "vai"]
+  },
+  {
+    "selrafsi": "valsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["val", "vla"]
+  },
+  {
+    "selrafsi": "vamji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vam", "va'i"]
+  },
+  {
+    "selrafsi": "vamtu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vat"]
+  },
+  {
+    "selrafsi": "vanbi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vab"]
+  },
+  {
+    "selrafsi": "vanci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vac"]
+  },
+  {
+    "selrafsi": "vanju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["van"]
+  },
+  {
+    "selrafsi": "vasru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vas", "vau"]
+  },
+  {
+    "selrafsi": "vasxu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vax", "va'u"]
+  },
+  {
+    "selrafsi": "vecnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ven", "ve'u"]
+  },
+  {
+    "selrafsi": "vedli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "venfu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vef"]
+  },
+  {
+    "selrafsi": "vensa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ves"]
+  },
+  {
+    "selrafsi": "vente",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vepre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "verba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ver", "ve'a"]
+  },
+  {
+    "selrafsi": "vibna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vib"]
+  },
+  {
+    "selrafsi": "vidni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vidru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vir"]
+  },
+  {
+    "selrafsi": "vifne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vif"]
+  },
+  {
+    "selrafsi": "vikmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vim", "vi'i"]
+  },
+  {
+    "selrafsi": "viknu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vik"]
+  },
+  {
+    "selrafsi": "vimcu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vic", "vi'u"]
+  },
+  {
+    "selrafsi": "vindu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vid"]
+  },
+  {
+    "selrafsi": "vinji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vij"]
+  },
+  {
+    "selrafsi": "vinta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vipsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vip"]
+  },
+  {
+    "selrafsi": "virnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vri"]
+  },
+  {
+    "selrafsi": "viska",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vis", "vi'a"]
+  },
+  {
+    "selrafsi": "vitci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vit"]
+  },
+  {
+    "selrafsi": "vitke",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vi'e"]
+  },
+  {
+    "selrafsi": "vitno",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vi'o"]
+  },
+  {
+    "selrafsi": "vlagi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["lag"]
+  },
+  {
+    "selrafsi": "vlile",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vil"]
+  },
+  {
+    "selrafsi": "vlina",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vlipa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vli"]
+  },
+  {
+    "selrafsi": "vofli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vol", "voi"]
+  },
+  {
+    "selrafsi": "voksa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vok", "vo'a"]
+  },
+  {
+    "selrafsi": "volve",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vorme",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vor", "vro"]
+  },
+  {
+    "selrafsi": "vraga",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vra"]
+  },
+  {
+    "selrafsi": "vreji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rej", "vei"]
+  },
+  {
+    "selrafsi": "vreta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vre"]
+  },
+  {
+    "selrafsi": "vrici",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vrude",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vud", "vu'e"]
+  },
+  {
+    "selrafsi": "vrusi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vus", "vu'i"]
+  },
+  {
+    "selrafsi": "vubla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vujnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vukna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "vukro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["vur", "vu'o"]
+  },
+  {
+    "selrafsi": "xabju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xa'u"]
+  },
+  {
+    "selrafsi": "xadba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xab"]
+  },
+  {
+    "selrafsi": "xadji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xadni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xad"]
+  },
+  {
+    "selrafsi": "xagji",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xagri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xajmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xam"]
+  },
+  {
+    "selrafsi": "xaksu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xak"]
+  },
+  {
+    "selrafsi": "xalbo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xalka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xal"]
+  },
+  {
+    "selrafsi": "xalni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xamgu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xag", "xau"]
+  },
+  {
+    "selrafsi": "xampo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xap", "xa'o"]
+  },
+  {
+    "selrafsi": "xamsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xas"]
+  },
+  {
+    "selrafsi": "xance",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xan", "xa'e"]
+  },
+  {
+    "selrafsi": "xango",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xanka",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xanri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xar"]
+  },
+  {
+    "selrafsi": "xansa",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xanto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xarci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xac", "xa'i"]
+  },
+  {
+    "selrafsi": "xarju",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xaj"]
+  },
+  {
+    "selrafsi": "xarnu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xasli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xasne",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xatra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xa'a"]
+  },
+  {
+    "selrafsi": "xatsi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xat"]
+  },
+  {
+    "selrafsi": "xazdo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xaz", "zdo"]
+  },
+  {
+    "selrafsi": "xebni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xen", "xei"]
+  },
+  {
+    "selrafsi": "xebro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xeb", "bro"]
+  },
+  {
+    "selrafsi": "xecto",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xet", "cto"]
+  },
+  {
+    "selrafsi": "xedja",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xej", "xe'a"]
+  },
+  {
+    "selrafsi": "xekri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xek", "xe'i"]
+  },
+  {
+    "selrafsi": "xelso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xes"]
+  },
+  {
+    "selrafsi": "xendo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xed", "xe'o"]
+  },
+  {
+    "selrafsi": "xenru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xer", "xe'u"]
+  },
+  {
+    "selrafsi": "xexso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xex"]
+  },
+  {
+    "selrafsi": "xigzo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xindo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xin"]
+  },
+  {
+    "selrafsi": "xinmo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xim"]
+  },
+  {
+    "selrafsi": "xirma",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xir", "xi'a"]
+  },
+  {
+    "selrafsi": "xislu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xil", "xi'u"]
+  },
+  {
+    "selrafsi": "xispo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xip"]
+  },
+  {
+    "selrafsi": "xlali",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xla"]
+  },
+  {
+    "selrafsi": "xlura",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xlu"]
+  },
+  {
+    "selrafsi": "xorbo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xorlo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xotli",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xol", "xoi"]
+  },
+  {
+    "selrafsi": "xrabo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rab"]
+  },
+  {
+    "selrafsi": "xrani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xai"]
+  },
+  {
+    "selrafsi": "xriso",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xis", "xi'o"]
+  },
+  {
+    "selrafsi": "xrotu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xruba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xub"]
+  },
+  {
+    "selrafsi": "xruki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xuk"]
+  },
+  {
+    "selrafsi": "xrula",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["rul"]
+  },
+  {
+    "selrafsi": "xruti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xru"]
+  },
+  {
+    "selrafsi": "xukmi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xum", "xu'i"]
+  },
+  {
+    "selrafsi": "xulta",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xunre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xun", "xu'e"]
+  },
+  {
+    "selrafsi": "xurdo",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xur", "xu'o"]
+  },
+  {
+    "selrafsi": "xusra",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xus", "xu'a"]
+  },
+  {
+    "selrafsi": "xutla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["xul"]
+  },
+  {
+    "selrafsi": "zabna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zan", "za'a"]
+  },
+  {
+    "selrafsi": "zajba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zaj"]
+  },
+  {
+    "selrafsi": "zalvi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zal"]
+  },
+  {
+    "selrafsi": "zanru",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zar", "zau"]
+  },
+  {
+    "selrafsi": "zarci",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zac", "zai"]
+  },
+  {
+    "selrafsi": "zargu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zag", "za'u"]
+  },
+  {
+    "selrafsi": "zasni",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zas"]
+  },
+  {
+    "selrafsi": "zasti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zat", "za'i"]
+  },
+  {
+    "selrafsi": "zbabu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["bab"]
+  },
+  {
+    "selrafsi": "zbani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "zbasu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zba"]
+  },
+  {
+    "selrafsi": "zbepi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zbe"]
+  },
+  {
+    "selrafsi": "zdani",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zda"]
+  },
+  {
+    "selrafsi": "zdile",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zdi"]
+  },
+  {
+    "selrafsi": "zekri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zer", "zei"]
+  },
+  {
+    "selrafsi": "zenba",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zen", "ze'a"]
+  },
+  {
+    "selrafsi": "zepti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zep"]
+  },
+  {
+    "selrafsi": "zetro",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zet"]
+  },
+  {
+    "selrafsi": "zevla",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "zgadi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "zgana",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zga"]
+  },
+  {
+    "selrafsi": "zgike",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zgi", "gi'e"]
+  },
+  {
+    "selrafsi": "zifre",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zif", "zi'e"]
+  },
+  {
+    "selrafsi": "zinki",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zin", "zi'i"]
+  },
+  {
+    "selrafsi": "zirpu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zir", "zi'u"]
+  },
+  {
+    "selrafsi": "zivle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["ziv", "vle"]
+  },
+  {
+    "selrafsi": "zmadu",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zma", "mau"]
+  },
+  {
+    "selrafsi": "zmiku",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zmi"]
+  },
+  {
+    "selrafsi": "zucna",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "zukte",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zuk", "zu'e"]
+  },
+  {
+    "selrafsi": "zumri",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zmu"]
+  },
+  {
+    "selrafsi": "zungi",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zug"]
+  },
+  {
+    "selrafsi": "zunle",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zul"]
+  },
+  {
+    "selrafsi": "zunti",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zun", "zu'i"]
+  },
+  {
+    "selrafsi": "zutse",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zut", "tse"]
+  },
+  {
+    "selrafsi": "zvati",
+    "pos": "gismu",
+    "experimental": false,
+    "rafsi": ["zva"]
+  },
+  {
+    "selrafsi": "kibro",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["kib"]
+  },
+  {
+    "selrafsi": "zviki",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["zvi"]
+  },
+  {
+    "selrafsi": "vujnu",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["vuj", "vu'u"]
+  },
+  {
+    "selrafsi": "corci",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["coc"]
+  },
+  {
+    "selrafsi": "flese",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["les"]
+  },
+  {
+    "selrafsi": "ditcu",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["dit"]
+  },
+  {
+    "selrafsi": "gugle",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["gul"]
+  },
+  {
+    "selrafsi": "jonse",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["jos"]
+  },
+  {
+    "selrafsi": "nicfa",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["nif"]
+  },
+  {
+    "selrafsi": "tende",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["te'e"]
+  },
+  {
+    "selrafsi": "zmico",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["zic"]
+  },
+  {
+    "selrafsi": "vedli",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": ["ve'i"]
+  },
+  {
+    "selrafsi": "xonba",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "xerno",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "tezda",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "kazmi",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "lokra",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "skano",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "balto",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "clenu",
+    "pos": "gismu",
+    "experimental": true,
+    "rafsi": []
+  },
+  {
+    "selrafsi": "bi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["biv"]
+  },
+  {
+    "selrafsi": "bi'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["biz"]
+  },
+  {
+    "selrafsi": "bo",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["bor"]
+  },
+  {
+    "selrafsi": "bu",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["bu'i", "bus"]
+  },
+  {
+    "selrafsi": "bu'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["bul"]
+  },
+  {
+    "selrafsi": "ca'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["caz"]
+  },
+  {
+    "selrafsi": "ce",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["cec"]
+  },
+  {
+    "selrafsi": "ce'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["cez"]
+  },
+  {
+    "selrafsi": "ce'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["ce'o"]
+  },
+  {
+    "selrafsi": "ci",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["cib"]
+  },
+  {
+    "selrafsi": "co",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["col"]
+  },
+  {
+    "selrafsi": "co'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["co'a"]
+  },
+  {
+    "selrafsi": "co'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["co'e", "com"]
+  },
+  {
+    "selrafsi": "co'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["co'u"]
+  },
+  {
+    "selrafsi": "da",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["dav", "dza"]
+  },
+  {
+    "selrafsi": "da'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["daz"]
+  },
+  {
+    "selrafsi": "do",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["doi", "don"]
+  },
+  {
+    "selrafsi": "du",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["du'o", "dub"]
+  },
+  {
+    "selrafsi": "du'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["dum"]
+  },
+  {
+    "selrafsi": "fo'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["fo'a"]
+  },
+  {
+    "selrafsi": "fo'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["fo'e"]
+  },
+  {
+    "selrafsi": "fo'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["fo'i"]
+  },
+  {
+    "selrafsi": "ja",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jav"]
+  },
+  {
+    "selrafsi": "jai",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jax"]
+  },
+  {
+    "selrafsi": "je",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jev", "jve"]
+  },
+  {
+    "selrafsi": "jei",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jez"]
+  },
+  {
+    "selrafsi": "jo",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jov"]
+  },
+  {
+    "selrafsi": "jo'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jom"]
+  },
+  {
+    "selrafsi": "jo'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["jo'u"]
+  },
+  {
+    "selrafsi": "joi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["joi", "jol"]
+  },
+  {
+    "selrafsi": "ju",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["juv"]
+  },
+  {
+    "selrafsi": "ka",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["kam"]
+  },
+  {
+    "selrafsi": "ke",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["kem"]
+  },
+  {
+    "selrafsi": "ke'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["ke'e", "kep"]
+  },
+  {
+    "selrafsi": "kei",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["kez"]
+  },
+  {
+    "selrafsi": "ku'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["kuz"]
+  },
+  {
+    "selrafsi": "le'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["lem"]
+  },
+  {
+    "selrafsi": "li'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["liz"]
+  },
+  {
+    "selrafsi": "lo'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["lom"]
+  },
+  {
+    "selrafsi": "mei",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["mei", "mem"]
+  },
+  {
+    "selrafsi": "mi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["mib"]
+  },
+  {
+    "selrafsi": "mo'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["mob"]
+  },
+  {
+    "selrafsi": "mo'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["mov"]
+  },
+  {
+    "selrafsi": "moi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["moi", "mom"]
+  },
+  {
+    "selrafsi": "mu",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["mum"]
+  },
+  {
+    "selrafsi": "mu'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["muf"]
+  },
+  {
+    "selrafsi": "na",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["nar"]
+  },
+  {
+    "selrafsi": "na'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["nal"]
+  },
+  {
+    "selrafsi": "ni",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["nil"]
+  },
+  {
+    "selrafsi": "no",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["non"]
+  },
+  {
+    "selrafsi": "no'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["no'e", "nor"]
+  },
+  {
+    "selrafsi": "nu",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["nun"]
+  },
+  {
+    "selrafsi": "nu'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["nu'o"]
+  },
+  {
+    "selrafsi": "pa",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["pav"]
+  },
+  {
+    "selrafsi": "pe'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["pev"]
+  },
+  {
+    "selrafsi": "pi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["piz"]
+  },
+  {
+    "selrafsi": "pi'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["piv"]
+  },
+  {
+    "selrafsi": "pu'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["pus"]
+  },
+  {
+    "selrafsi": "pu'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["puv"]
+  },
+  {
+    "selrafsi": "re",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["rel"]
+  },
+  {
+    "selrafsi": "ro",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["rol"]
+  },
+  {
+    "selrafsi": "roi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["roi", "rom"]
+  },
+  {
+    "selrafsi": "se",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["sel"]
+  },
+  {
+    "selrafsi": "si'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["siz"]
+  },
+  {
+    "selrafsi": "so",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["soz"]
+  },
+  {
+    "selrafsi": "so'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["soj"]
+  },
+  {
+    "selrafsi": "so'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["sop"]
+  },
+  {
+    "selrafsi": "so'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["so'i", "sor"]
+  },
+  {
+    "selrafsi": "so'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["sos"]
+  },
+  {
+    "selrafsi": "so'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["sot"]
+  },
+  {
+    "selrafsi": "su'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["su'e", "sup"]
+  },
+  {
+    "selrafsi": "su'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["su'o", "suz"]
+  },
+  {
+    "selrafsi": "su'u",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["suv"]
+  },
+  {
+    "selrafsi": "ta",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["taz"]
+  },
+  {
+    "selrafsi": "te",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["ter"]
+  },
+  {
+    "selrafsi": "ti",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["tif"]
+  },
+  {
+    "selrafsi": "to'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["to'e", "tol"]
+  },
+  {
+    "selrafsi": "tu",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["tuf"]
+  },
+  {
+    "selrafsi": "va",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["vaz"]
+  },
+  {
+    "selrafsi": "ve",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["vel"]
+  },
+  {
+    "selrafsi": "ve'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["ve'e"]
+  },
+  {
+    "selrafsi": "vi",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["viz"]
+  },
+  {
+    "selrafsi": "vo",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["von"]
+  },
+  {
+    "selrafsi": "vu",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["vuz"]
+  },
+  {
+    "selrafsi": "xa",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["xav"]
+  },
+  {
+    "selrafsi": "xe",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["xel"]
+  },
+  {
+    "selrafsi": "za'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["zaz"]
+  },
+  {
+    "selrafsi": "za'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["za'o"]
+  },
+  {
+    "selrafsi": "ze",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["zel"]
+  },
+  {
+    "selrafsi": "ze'e",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["ze'e"]
+  },
+  {
+    "selrafsi": "ze'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["ze'o", "zev"]
+  },
+  {
+    "selrafsi": "zi'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["zil"]
+  },
+  {
+    "selrafsi": "zo'a",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["zo'a", "zon"]
+  },
+  {
+    "selrafsi": "zo'i",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["zo'i", "zor"]
+  },
+  {
+    "selrafsi": "zu'o",
+    "pos": "cmavo",
+    "experimental": false,
+    "rafsi": ["zum"]
+  },
+  {
+    "selrafsi": "dau",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["duv"]
+  },
+  {
+    "selrafsi": "fei",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["fel"]
+  },
+  {
+    "selrafsi": "gai",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["gam"]
+  },
+  {
+    "selrafsi": "jau",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["juz"]
+  },
+  {
+    "selrafsi": "xei",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["xem"]
+  },
+  {
+    "selrafsi": "vai",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["vav"]
+  },
+  {
+    "selrafsi": "zai'e",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["zam"]
+  },
+  {
+    "selrafsi": "xo'ei",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["xon"]
+  },
+  {
+    "selrafsi": "po'o",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["pov"]
+  },
+  {
+    "selrafsi": "te'o",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["tez"]
+  },
+  {
+    "selrafsi": "vo'a",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["vob"]
+  },
+  {
+    "selrafsi": "to'o",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["to'o"]
+  },
+  {
+    "selrafsi": "vo'ai",
+    "pos": "cmavo",
+    "experimental": true,
+    "rafsi": ["voz"]
+  }
+]
