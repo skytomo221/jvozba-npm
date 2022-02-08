@@ -1,6 +1,10 @@
+import rewire from 'rewire';
 import jvokaha from './jvokaha';
 
-describe('jvozba test', () => {
+// eslint-disable-next-line no-underscore-dangle
+const sloppyJvokaha = rewire('../dist/jvokaha').__get__('sloppyJvokaha');
+
+describe('jvokaha test', () => {
   test("fu'ivla be to fu'i + vla", () => {
     expect(jvokaha("fu'ivla")).toEqual(["fu'i", 'vla']);
   });
@@ -10,7 +14,22 @@ describe('jvozba test', () => {
   test('pasymabru be to pas + y + mabru', () => {
     expect(jvokaha("fu'ivla")).toEqual(["fu'i", 'vla']);
   });
-  test('pasmabru', () => {
+  test('pasmabru to throw', () => {
     expect(() => jvokaha('pasmabru')).toThrow(Error);
+  });
+});
+
+describe('sloppyJvokaha test', () => {
+  test("fu'ivla be to fu'i + vla", () => {
+    expect(sloppyJvokaha("fu'ivla")).toEqual(["fu'i", 'vla']);
+  });
+  test("fu'irvla to fu'i + r + vla", () => {
+    expect(sloppyJvokaha("fu'irvla")).toEqual(["fu'i", 'r', 'vla']);
+  });
+  test('pasymabru be to pas + y + mabru', () => {
+    expect(sloppyJvokaha("fu'ivla")).toEqual(["fu'i", 'vla']);
+  });
+  test('pasmabru be to pas + mabru', () => {
+    expect(sloppyJvokaha('pasmabru')).toEqual(['pas', 'mabru']);
   });
 });

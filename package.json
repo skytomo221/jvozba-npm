@@ -17,6 +17,10 @@
   "files": [
     "dist"
   ],
+  "dependencies": {
+    "@types/rewire": "^2.5.28",
+    "rewire": "^6.0.0"
+  },
   "devDependencies": {
     "@types/jest": "^27.4.0",
     "@typescript-eslint/eslint-plugin": "^5.10.2",
