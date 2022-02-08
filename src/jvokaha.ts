@@ -1,5 +1,4 @@
-import { normalize } from './jvozba';
-import { syllables } from './tools';
+import { normalize, syllables } from './tools';
 
 function headSyllable(lujvo: string, cvs: string): boolean {
   return syllables(lujvo.slice(0, cvs.length)) === cvs;
