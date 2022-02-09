@@ -4,12 +4,6 @@ function headSyllable(lujvo: string, cvs: string): boolean {
   return syllables(lujvo.slice(0, cvs.length)) === cvs;
 }
 
-/*
-  sloppyJvokaha("fu'ivla") --> ["fu'i", "vla"]
-  sloppyJvokaha("fu'irvla") --> ["fu'i", "r", "vla"]
-  sloppyJvokaha("pasymabru") --> ["pas", "y", "mabru"]
-  sloppyJvokaha("pasmabru") --> ["pas", "mabru"]
-*/
 function sloppyJvokaha(originalLujvo: string): string[] {
   let lujvo = originalLujvo;
   const dropped = [];
