@@ -53,10 +53,7 @@ export function sloppyJvokaha(originalLujvo: string): string[] {
   }
 }
 
-export function jvokaha(
-  lujvo: string,
-  tanru: boolean = false,
-): string[] {
+export function jvokaha(lujvo: string, tanru: boolean = false): string[] {
   const dropped = sloppyJvokaha(lujvo).filter((a) => a.length !== 1); // remove ynr
   const correctLujvo = normalize(dropped).join(''); // recreate the lujvo from the rafsi list
   if (lujvo !== correctLujvo) {

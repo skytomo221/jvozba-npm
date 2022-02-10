@@ -1,3 +1,4 @@
+import { bigram } from 'n-gram';
 import rafsiList from './rafsi.json';
 
 export type Consonant =
@@ -110,7 +111,9 @@ export function isCmevla(valsi: string): boolean {
 function isPermissible(c1: Consonant, c2: Consonant): 0 | 1 | 2 {
   const i1 = 'rlnmbvdgjzscxktfp'.indexOf(c1);
   const i2 = 'rlnmbvdgjzscxktfp'.indexOf(c2);
-  // 2: initial ok; 1: ok; 0: none ok
+  // 2: permissible initial consonant pair (e.g. 's' and 't' (CC))
+  // 1: permissible consonant pair (e.g. 'n' and 't' (C/C))
+  // 0: forbidden consonant pair (e.g. 'n' and 'n')
   return [
     [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
     [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
@@ -132,6 +135,33 @@ function isPermissible(c1: Consonant, c2: Consonant): 0 | 1 | 2 {
   ][i1][i2] as 0 | 1 | 2;
 }
 
+export function tosmabru(rafsis: string[]): boolean {
+  const heads = rafsis.includes('y')
+    ? rafsis.slice(0, rafsis.indexOf('y'))
+    : rafsis.slice(0, -1);
+  const last = rafsis[rafsis.length - 1];
+  if (rafsis.length < 2 || isCmevla(last)) return false;
+  if (heads.every((rafsi) => syllables(rafsi) === 'CVC')) {
+    if (rafsis.includes('y')) {
+      return bigram(heads).every(([r1, r2]) => (
+        isPermissible(r1[r1.length - 1] as Consonant, r2[0] as Consonant)
+          === 2
+      ));
+    }
+    if (
+      syllables(last) === 'CVCCV'
+      && isPermissible(last[2] as Consonant, last[3] as Consonant) === 2
+    ) {
+      return bigram(rafsis).every(
+        ([r1, r2]) => isPermissible(r1[r1.length - 1] as Consonant, r2[0] as Consonant)
+          === 2,
+      );
+    }
+  }
+  return false;
+}
+
+// See https://github.com/sozysozbot/advent2016/blob/master/cll_lujvo_manual.md#3-1-tosmabru%E3%83%86%E3%82%B9%E3%83%88
 function isTosmabru(rafsi: string, rest: string[]): boolean {
   // skip if cmevla
   if (isCmevla(rest[rest.length - 1])) {

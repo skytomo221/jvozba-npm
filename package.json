@@ -10,7 +10,7 @@
     "fix": "run-s fix:prettier fix:eslint",
     "fix:eslint": "eslint --fix --ext .ts .",
     "fix:prettier": "prettier --write . --ignore-path ./.prettierignore",
-    "test": "jest"
+    "test": "tsc && jest"
   },
   "author": "skytomo",
   "license": "MIT",
@@ -19,12 +19,15 @@
   ],
   "dependencies": {
     "@types/rewire": "^2.5.28",
-    "rewire": "^6.0.0"
+    "n-gram": "^2.0.1"
   },
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
     "@types/jest": "^27.4.0",
     "@typescript-eslint/eslint-plugin": "^5.10.2",
     "@typescript-eslint/parser": "^5.10.2",
+    "babel-jest": "^27.5.1",
     "eslint": "^8.8.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-import-resolver-typescript": "^2.5.0",
