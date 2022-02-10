@@ -5,7 +5,7 @@ function headSyllable(lujvo: string, cvs: string): boolean {
   return syllables(lujvo.slice(0, cvs.length)) === cvs;
 }
 
-function sloppyJvokaha(originalLujvo: string): string[] {
+export function sloppyJvokaha(originalLujvo: string): string[] {
   let lujvo = originalLujvo;
   const dropped = [];
   for (;;) {
@@ -53,7 +53,7 @@ function sloppyJvokaha(originalLujvo: string): string[] {
   }
 }
 
-export default function jvokaha(
+export function jvokaha(
   lujvo: string,
   tanru: boolean = false,
 ): string[] {

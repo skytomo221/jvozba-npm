@@ -1,5 +1,4 @@
-import rewire from 'rewire';
-import jvokaha from './jvokaha';
+import { jvokaha, sloppyJvokaha } from './jvokaha';
 
 describe('jvokaha test', () => {
   test("fu'ivla be to fu'i + vla", () => {
@@ -19,9 +18,6 @@ describe('jvokaha test', () => {
     expect(() => jvokaha('pasmabru', true)).toThrow(Error);
   });
 });
-
-// eslint-disable-next-line no-underscore-dangle
-const sloppyJvokaha = rewire('../dist/jvokaha').__get__('sloppyJvokaha');
 
 describe('sloppyJvokaha test', () => {
   test("fu'ivla be to fu'i + vla", () => {
