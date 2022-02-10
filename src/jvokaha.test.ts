@@ -1,9 +1,6 @@
 import rewire from 'rewire';
 import jvokaha from './jvokaha';
 
-// eslint-disable-next-line no-underscore-dangle
-const sloppyJvokaha = rewire('../dist/jvokaha').__get__('sloppyJvokaha');
-
 describe('jvokaha test', () => {
   test("fu'ivla be to fu'i + vla", () => {
     expect(jvokaha("fu'ivla")).toEqual(["fu'i", 'vla']);
@@ -22,6 +19,9 @@ describe('jvokaha test', () => {
     expect(() => jvokaha('pasmabru', true)).toThrow(Error);
   });
 });
+
+// eslint-disable-next-line no-underscore-dangle
+const sloppyJvokaha = rewire('../dist/jvokaha').__get__('sloppyJvokaha');
 
 describe('sloppyJvokaha test', () => {
   test("fu'ivla be to fu'i + vla", () => {
