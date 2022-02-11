@@ -1,5 +1,5 @@
-import { bigram } from 'n-gram';
 import rafsiList from './rafsi.json';
+import tosmabru from './tosmabru';
 
 export type Consonant =
   | 'r'
@@ -108,7 +108,7 @@ export function isCmevla(valsi: string): boolean {
   );
 }
 
-function isPermissible(c1: Consonant, c2: Consonant): 0 | 1 | 2 {
+export function isPermissible(c1: Consonant, c2: Consonant): 0 | 1 | 2 {
   const i1 = 'rlnmbvdgjzscxktfp'.indexOf(c1);
   const i2 = 'rlnmbvdgjzscxktfp'.indexOf(c2);
   // 2: permissible initial consonant pair (e.g. 's' and 't' (CC))
@@ -133,95 +133,6 @@ function isPermissible(c1: Consonant, c2: Consonant): 0 | 1 | 2 {
     [2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1],
     [2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0],
   ][i1][i2] as 0 | 1 | 2;
-}
-
-export function tosmabru(rafsis: string[]): boolean {
-  const heads = rafsis.includes('y')
-    ? rafsis.slice(0, rafsis.indexOf('y'))
-    : rafsis.slice(0, -1);
-  const last = rafsis[rafsis.length - 1];
-  if (rafsis.length < 2 || isCmevla(last)) return false;
-  if (heads.every((rafsi) => syllables(rafsi) === 'CVC')) {
-    if (rafsis.includes('y')) {
-      return bigram(heads).every(([r1, r2]) => (
-        isPermissible(r1[r1.length - 1] as Consonant, r2[0] as Consonant)
-          === 2
-      ));
-    }
-    if (
-      syllables(last) === 'CVCCV'
-      && isPermissible(last[2] as Consonant, last[3] as Consonant) === 2
-    ) {
-      return bigram(rafsis).every(
-        ([r1, r2]) => isPermissible(r1[r1.length - 1] as Consonant, r2[0] as Consonant)
-          === 2,
-      );
-    }
-  }
-  return false;
-}
-
-// See https://github.com/sozysozbot/advent2016/blob/master/cll_lujvo_manual.md#3-1-tosmabru%E3%83%86%E3%82%B9%E3%83%88
-function isTosmabru(rafsi: string, rest: string[]): boolean {
-  // skip if cmevla
-  if (isCmevla(rest[rest.length - 1])) {
-    // ends with a consonant
-    return false;
-  }
-  let index;
-  for (let i = 0; i < rest.length; i += 1) {
-    // eslint-disable-next-line no-continue
-    if (syllables(rest[i]) === 'CVC') continue;
-    index = i;
-    if (
-      rest[i] === 'y'
-      || (() => {
-        if (syllables(rest[i]) !== 'CVCCV') {
-          return false;
-        }
-        const charAt2 = rest[i].charAt(2);
-        if (!isConsonant(charAt2)) {
-          throw new Error('Cannot happen');
-        }
-        const charAt3 = rest[i].charAt(3);
-        if (!isConsonant(charAt3)) {
-          throw new Error('Cannot happen');
-        }
-        return isPermissible(charAt2, charAt3) === 2;
-      })()
-    ) {
-      break;
-      // further testing
-    } else {
-      return false;
-    }
-  }
-  if (typeof index === 'undefined') {
-    /* This can only occur if everything is CVC, but the that is a cmevla */
-    throw new Error('Cannot happen');
-  }
-  // further testing
-  let tmp1: string = rafsi;
-  let tmp2 = rest[0];
-  let j = 0;
-  do {
-    if (tmp2 === 'y') return true;
-    const a = tmp1.charAt(tmp1.length - 1);
-    if (!isConsonant(a)) {
-      throw new Error('Cannot happen');
-    }
-    const b = tmp2.charAt(0);
-    if (!isConsonant(b)) {
-      throw new Error('Cannot happen');
-    }
-    if (isPermissible(a, b) !== 2) {
-      return false;
-    }
-    tmp1 = tmp2;
-    j += 1;
-    tmp2 = rest[j];
-  } while (j <= index);
-  return true;
 }
 
 export function normalize(rafsis: string[]): string[] {
@@ -262,7 +173,7 @@ export function normalize(rafsis: string[]): string[] {
     } else if (
       input.length === 0
       && syllables(rafsi) === 'CVC'
-      && isTosmabru(rafsi, result)
+      && tosmabru([rafsi, ...result])
     ) {
       result.unshift('y');
     }
