@@ -1,3 +1,4 @@
+import permissibleConsonantPair from './permissibleConsonantPair';
 import rafsiList from './rafsi.json';
 import tosmabru from './tosmabru';
 
@@ -108,33 +109,6 @@ export function isCmevla(valsi: string): boolean {
   );
 }
 
-export function isPermissible(c1: Consonant, c2: Consonant): 0 | 1 | 2 {
-  const i1 = 'rlnmbvdgjzscxktfp'.indexOf(c1);
-  const i2 = 'rlnmbvdgjzscxktfp'.indexOf(c2);
-  // 2: permissible initial consonant pair (e.g. 's' and 't' (CC))
-  // 1: permissible consonant pair (e.g. 'n' and 't' (C/C))
-  // 0: forbidden consonant pair (e.g. 'n' and 'n')
-  return [
-    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-    [2, 2, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1],
-    [2, 2, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0],
-    [2, 2, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0],
-    [2, 1, 1, 1, 1, 1, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0],
-    [2, 2, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0],
-    [1, 1, 1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    [1, 1, 1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    [2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2],
-    [2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2],
-    [2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1],
-    [2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1],
-    [2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 2, 2, 1, 1, 0, 1, 1],
-    [2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1],
-    [2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0],
-  ][i1][i2] as 0 | 1 | 2;
-}
-
 export function normalize(rafsis: string[]): string[] {
   if (rafsis.length < 2) {
     throw new Error('You need at least two valsi to make a lujvo');
@@ -150,7 +124,7 @@ export function normalize(rafsis: string[]): string[] {
     } else if (
       isConsonant(end)
       && isConsonant(init)
-      && isPermissible(end, init) === 0
+      && permissibleConsonantPair(end, init) === 0
     ) {
       result.unshift('y');
     } else if (

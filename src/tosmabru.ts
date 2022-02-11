@@ -1,13 +1,14 @@
 import { bigram } from 'n-gram';
+import permissibleConsonantPair from './permissibleConsonantPair';
 import {
-  Consonant, isCmevla, isConsonant, isPermissible, syllables,
+  Consonant, isCmevla, isConsonant, syllables,
 } from './tools';
 
 function cc(r1: string, r2: string): boolean {
   return (
     isConsonant(r1[r1.length - 1])
     && isConsonant(r2[0])
-    && isPermissible(r1[r1.length - 1] as Consonant, r2[0]) === 2
+    && permissibleConsonantPair(r1[r1.length - 1] as Consonant, r2[0]) === 2
   );
 }
 
@@ -26,7 +27,7 @@ export default function tosmabru(rafsis: string[]): boolean {
     syllables(last) === 'CVCCV'
     && isConsonant(last[2])
     && isConsonant(last[3])
-    && isPermissible(last[2], last[3]) === 2
+    && permissibleConsonantPair(last[2], last[3]) === 2
   ) {
     const heads = rafsis.slice(0, -1);
     return (
