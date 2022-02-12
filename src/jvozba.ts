@@ -7,13 +7,14 @@ type LujvoAndScore = { lujvo: string; score: number };
 
 export default function jvozba(
   arr: string[],
-  forbidLaLaiDoi?: boolean,
+  forbidLaLaiDoi: boolean = false,
+  experimental: boolean = true,
 ): LujvoAndScore[] {
   const candidArr: string[][] = [];
 
   for (let i = 0; i < arr.length; i += 1) {
     candidArr.push(
-      rafsiCandidates(arr[i], /* isLast: */ i === arr.length - 1, true),
+      rafsiCandidates(arr[i], /* isLast: */ i === arr.length - 1, experimental),
     );
   }
 
