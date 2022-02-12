@@ -1,10 +1,7 @@
 import avoidProhibitions from './avoidProhibitions';
 import lujvoScore from './lujvoScore';
-import {
-  possibilityCombinations,
-  rafsiCandidates,
-  isCmevla,
-} from './tools';
+import rafsiCandidates from './rafsiCandidates';
+import { possibilityCombinations, isCmevla } from './tools';
 
 type LujvoAndScore = { lujvo: string; score: number };
 

@@ -14,24 +14,24 @@ export default function avoidProhibitions(rafsis: string[]): string[] {
     const begin = rafsi.charAt(0);
     if (
       syllables(previousRafsi) === 'CVCC'
-        || syllables(previousRafsi) === 'CCVC'
+      || syllables(previousRafsi) === 'CCVC'
     ) {
       result.push('y');
     } else if (
       isConsonant(end)
-        && isConsonant(begin)
-        && permissibleConsonantPair(end, begin) === 0
+      && isConsonant(begin)
+      && permissibleConsonantPair(end, begin) === 0
     ) {
       result.push('y');
     } else if (
       end === 'n'
-        && ['ts', 'tc', 'dz', 'dj'].indexOf(rafsi.slice(0, 2)) !== -1
+      && ['ts', 'tc', 'dz', 'dj'].indexOf(rafsi.slice(0, 2)) !== -1
     ) {
       result.push('y');
     } else if (
       index === 0
-        && (syllables(previousRafsi) === 'CVV'
-          || syllables(previousRafsi) === "CV'V")
+      && (syllables(previousRafsi) === 'CVV'
+        || syllables(previousRafsi) === "CV'V")
     ) {
       // adapting first rafsi, which is CVV; gotta think about r-hyphen
       let hyphen = 'r';
@@ -43,8 +43,8 @@ export default function avoidProhibitions(rafsis: string[]): string[] {
       }
     } else if (
       index === 0
-        && syllables(previousRafsi) === 'CVC'
-        && tosmabru(rafsis)
+      && syllables(previousRafsi) === 'CVC'
+      && tosmabru(rafsis)
     ) {
       result.push('y');
     }
