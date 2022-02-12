@@ -62,9 +62,5 @@ export function jvokaha(lujvo: string, tanru: boolean = false): string[] {
       `malformed lujvo {${lujvo}}; it should be {${correctLujvo}}`,
     );
   }
-  return tanru
-    ? (dropped
-      .map((word) => selrafsi(word))
-      .filter((word) => word !== undefined) as string[])
-    : dropped;
+  return tanru ? dropped.map((word) => selrafsi(word)) : dropped;
 }

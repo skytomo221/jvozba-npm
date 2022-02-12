@@ -1,7 +1,9 @@
 import rafsiList from './rafsi.json';
 
 export default function selrafsi(rafsi: string, experimental: boolean = true) {
-  return rafsiList
+  const result = rafsiList
     .filter((word) => !word.experimental || experimental)
-    .find((word) => word.rafsi.includes(rafsi))?.selrafsi;
+    .find((word) => word.rafsi.includes(rafsi));
+  if (!result) throw new Error(`no rafsi for word ${rafsi}`);
+  return result.selrafsi;
 }
