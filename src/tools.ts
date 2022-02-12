@@ -1,3 +1,4 @@
+import { bigram } from 'n-gram';
 import permissibleConsonantPair from './permissibleConsonantPair';
 import rafsiList from './rafsi.json';
 import tosmabru from './tosmabru';
@@ -109,49 +110,48 @@ export function isCmevla(valsi: string): boolean {
   );
 }
 
+// See https://github.com/sozysozbot/advent2016/blob/master/cll_lujvo_manual.md#2-rafsi%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8Bpart1
 export function normalize(rafsis: string[]): string[] {
   if (rafsis.length < 2) {
     throw new Error('You need at least two valsi to make a lujvo');
   }
-  const input: string[] = Array.from(rafsis); // copy
-  const result: string[] = [input.pop()!]; // add the final rafsi
-  while (input.length) {
-    const rafsi: string = input.pop()!;
-    const end = rafsi.charAt(rafsi.length - 1);
-    const init = result[0].charAt(0);
-    if (syllables(rafsi) === 'CVCC' || syllables(rafsi) === 'CCVC') {
-      result.unshift('y');
+  const result = [rafsis[0]];
+  bigram(rafsis).forEach(([previousRafsi, rafsi], index) => {
+    const end = previousRafsi.charAt(previousRafsi.length - 1);
+    const begin = rafsi.charAt(0);
+    if (syllables(previousRafsi) === 'CVCC' || syllables(previousRafsi) === 'CCVC') {
+      result.push('y');
     } else if (
       isConsonant(end)
-      && isConsonant(init)
-      && permissibleConsonantPair(end, init) === 0
+      && isConsonant(begin)
+      && permissibleConsonantPair(end, begin) === 0
     ) {
-      result.unshift('y');
+      result.push('y');
     } else if (
       end === 'n'
-      && ['ts', 'tc', 'dz', 'dj'].indexOf(result[0].slice(0, 2)) !== -1
+      && ['ts', 'tc', 'dz', 'dj'].indexOf(rafsi.slice(0, 2)) !== -1
     ) {
-      result.unshift('y');
+      result.push('y');
     } else if (
-      input.length === 0
-      && (syllables(rafsi) === 'CVV' || syllables(rafsi) === "CV'V")
+      index === 0
+      && (syllables(previousRafsi) === 'CVV' || syllables(previousRafsi) === "CV'V")
     ) {
       // adapting first rafsi, which is CVV; gotta think about r-hyphen
       let hyphen = 'r';
-      if (result[0].startsWith('r')) {
+      if (rafsi.startsWith('r')) {
         hyphen = 'n';
       }
-      if (rafsis.length > 2 || syllables(result[0]) !== 'CCV') {
-        result.unshift(hyphen);
+      if (rafsis.length > 2 || syllables(rafsi) !== 'CCV') {
+        result.push(hyphen);
       }
     } else if (
-      input.length === 0
-      && syllables(rafsi) === 'CVC'
-      && tosmabru([rafsi, ...result])
+      index === 0
+      && syllables(previousRafsi) === 'CVC'
+      && tosmabru(rafsis)
     ) {
-      result.unshift('y');
+      result.push('y');
     }
-    result.unshift(rafsi);
-  }
+    result.push(rafsi);
+  });
   return result;
 }
