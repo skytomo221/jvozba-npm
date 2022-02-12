@@ -1,4 +1,4 @@
-import avoidProhibitions from './avoidProhibitions';
+import bondRafsis from './bondRafsis';
 import lujvoScore from './lujvoScore';
 import rafsiCandidates from './rafsiCandidates';
 import { possibilityCombinations, isCmevla } from './tools';
@@ -19,7 +19,7 @@ export default function jvozba(
 
   const answers: LujvoAndScore[] = possibilityCombinations(candidArr)
     .map((rafsiList: string[]) => {
-      const result = avoidProhibitions(rafsiList);
+      const result = bondRafsis(rafsiList);
       return { lujvo: result.join(''), score: lujvoScore(result) };
     })
     .filter((d: LujvoAndScore) => {

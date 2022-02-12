@@ -1,4 +1,4 @@
-import avoidProhibitions from './avoidProhibitions';
+import bondRafsis from './bondRafsis';
 import selrafsi from './selrafsi';
 import { syllables } from './tools';
 
@@ -56,7 +56,7 @@ export function sloppyJvokaha(originalLujvo: string): string[] {
 
 export function jvokaha(lujvo: string, tanru: boolean = false): string[] {
   const dropped = sloppyJvokaha(lujvo).filter((a) => a.length !== 1); // remove ynr
-  const correctLujvo = avoidProhibitions(dropped).join(''); // recreate the lujvo from the rafsi list
+  const correctLujvo = bondRafsis(dropped).join(''); // recreate the lujvo from the rafsi list
   if (lujvo !== correctLujvo) {
     throw new Error(
       `malformed lujvo {${lujvo}}; it should be {${correctLujvo}}`,
