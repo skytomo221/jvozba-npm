@@ -28,4 +28,10 @@ describe('tosmabru test', () => {
   test('nunynau to be not tosmabru', () => {
     expect(tosmabru(['nun', 'y', 'nau'])).toBeFalsy();
   });
+  test("fa'orma'o to be not tosmabru", () => {
+    expect(tosmabru(["fa'o", 'r', "ma'o"])).toBeFalsy();
+  });
+  test("fu'irvlarafsi to be not tosmabru", () => {
+    expect(tosmabru(["fu'i", 'r', 'vla', 'rafsi'])).toBeFalsy();
+  });
 });
