@@ -119,7 +119,10 @@ export function avoidProhibitions(rafsis: string[]): string[] {
   bigram(rafsis).forEach(([previousRafsi, rafsi], index) => {
     const end = previousRafsi.charAt(previousRafsi.length - 1);
     const begin = rafsi.charAt(0);
-    if (syllables(previousRafsi) === 'CVCC' || syllables(previousRafsi) === 'CCVC') {
+    if (
+      syllables(previousRafsi) === 'CVCC'
+      || syllables(previousRafsi) === 'CCVC'
+    ) {
       result.push('y');
     } else if (
       isConsonant(end)
@@ -134,7 +137,8 @@ export function avoidProhibitions(rafsis: string[]): string[] {
       result.push('y');
     } else if (
       index === 0
-      && (syllables(previousRafsi) === 'CVV' || syllables(previousRafsi) === "CV'V")
+      && (syllables(previousRafsi) === 'CVV'
+        || syllables(previousRafsi) === "CV'V")
     ) {
       // adapting first rafsi, which is CVV; gotta think about r-hyphen
       let hyphen = 'r';

@@ -1,7 +1,7 @@
+import lujvoScore from './lujvoScore';
 import {
   possibilityCombinations,
   rafsiCandidates,
-  lujvoScore,
   avoidProhibitions,
   isCmevla,
 } from './tools';
