@@ -6,35 +6,23 @@ import { possibilityCombinations, isCmevla } from './tools';
 type LujvoAndScore = { lujvo: string; score: number };
 
 export default function jvozba(
-  arr: string[],
+  words: string[],
   forbidLaLaiDoi: boolean = false,
   experimental: boolean = true,
 ): LujvoAndScore[] {
-  const candidArr: string[][] = [];
-
-  for (let i = 0; i < arr.length; i += 1) {
-    candidArr.push(
-      rafsiCandidates(arr[i], /* isLast: */ i === arr.length - 1, experimental),
-    );
-  }
-
-  const answers: LujvoAndScore[] = possibilityCombinations(candidArr)
-    .map((rafsiList: string[]) => {
-      const result = bondRafsis(rafsiList);
-      return { lujvo: result.join(''), score: lujvoScore(result) };
-    })
-    .filter((d: LujvoAndScore) => {
-      const l = d.lujvo;
-      return !(
-        isCmevla(l)
-        && forbidLaLaiDoi
-        && (l.match(/^(lai|doi)/)
-          || l.match(/[aeiouy](lai|doi)/)
-          || l.match(/^la[^u]/) // the fact that CLL explicitly forbids two sequences `la` and `lai` signifies that `lau` is not forbidden
-          || l.match(/[aeiouy]la[^u]/))
-      );
-    })
+  return possibilityCombinations(
+    words.map((word, index) => rafsiCandidates(word, index === words.length - 1, experimental)),
+  )
+    .map((rafsis) => bondRafsis(rafsis))
+    .map((rafsis) => ({ lujvo: rafsis.join(''), score: lujvoScore(rafsis) }))
+    .filter(
+      ({ lujvo }) => !(
+        isCmevla(lujvo)
+          && forbidLaLaiDoi
+          // the fact that CLL explicitly forbids two sequences `la` and `lai` signifies
+          // that `lau` is not forbidden
+          && lujvo.match(/^(lai|doi)|[aeiouy](lai|doi)|^la[^u]|[aeiouy]la[^u]/)
+      ),
+    )
     .sort((a, b) => a.score - b.score);
-
-  return answers;
 }
