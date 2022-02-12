@@ -1,8 +1,8 @@
+import avoidProhibitions from './avoidProhibitions';
 import lujvoScore from './lujvoScore';
 import {
   possibilityCombinations,
   rafsiCandidates,
-  avoidProhibitions,
   isCmevla,
 } from './tools';
 

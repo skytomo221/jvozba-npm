@@ -1,5 +1,6 @@
+import avoidProhibitions from './avoidProhibitions';
 import selrafsi from './selrafsi';
-import { avoidProhibitions, syllables } from './tools';
+import { syllables } from './tools';
 
 function headSyllable(lujvo: string, cvs: string): boolean {
   return syllables(lujvo.slice(0, cvs.length)) === cvs;
