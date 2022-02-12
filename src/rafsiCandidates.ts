@@ -2,8 +2,8 @@ import rafsiList from './rafsi.json';
 
 export default function rafsiCandidates(
   selrafsi: string,
-  last: boolean,
-  experimental: boolean,
+  last: boolean = false,
+  experimental: boolean = true,
 ): string[] {
   const { pos, rafsi } = rafsiList
     .filter((word) => !word.experimental || experimental)
