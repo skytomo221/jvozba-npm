@@ -1,5 +1,5 @@
 import selrafsi from './selrafsi';
-import { normalize, syllables } from './tools';
+import { avoidProhibitions, syllables } from './tools';
 
 function headSyllable(lujvo: string, cvs: string): boolean {
   return syllables(lujvo.slice(0, cvs.length)) === cvs;
@@ -55,7 +55,7 @@ export function sloppyJvokaha(originalLujvo: string): string[] {
 
 export function jvokaha(lujvo: string, tanru: boolean = false): string[] {
   const dropped = sloppyJvokaha(lujvo).filter((a) => a.length !== 1); // remove ynr
-  const correctLujvo = normalize(dropped).join(''); // recreate the lujvo from the rafsi list
+  const correctLujvo = avoidProhibitions(dropped).join(''); // recreate the lujvo from the rafsi list
   if (lujvo !== correctLujvo) {
     throw new Error(
       `malformed lujvo {${lujvo}}; it should be {${correctLujvo}}`,

@@ -2,7 +2,7 @@ import {
   possibilityCombinations,
   rafsiCandidates,
   lujvoScore,
-  normalize,
+  avoidProhibitions,
   isCmevla,
 } from './tools';
 
@@ -22,7 +22,7 @@ export default function jvozba(
 
   const answers: LujvoAndScore[] = possibilityCombinations(candidArr)
     .map((rafsiList: string[]) => {
-      const result = normalize(rafsiList);
+      const result = avoidProhibitions(rafsiList);
       return { lujvo: result.join(''), score: lujvoScore(result) };
     })
     .filter((d: LujvoAndScore) => {

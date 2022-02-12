@@ -4,7 +4,7 @@ import {
   syllables,
   lujvoScore,
   possibilityCombinations,
-  normalize,
+  avoidProhibitions,
 } from './tools';
 
 describe('possibilityCombinations test', () => {
@@ -125,16 +125,16 @@ describe('isConsonant test', () => {
 
 describe('avoidProhibitions test', () => {
   test('zbasai to be zbasai', () => {
-    expect(normalize(['zba', 'sai'])).toEqual(['zba', 'sai']);
+    expect(avoidProhibitions(['zba', 'sai'])).toEqual(['zba', 'sai']);
   });
   test('nunynau to be nunynau', () => {
-    expect(normalize(['nun', 'y', 'nau'])).toEqual(['nun', 'y', 'y', 'nau']);
+    expect(avoidProhibitions(['nun', 'y', 'nau'])).toEqual(['nun', 'y', 'y', 'nau']);
   });
   test('nunnau to be nunynau', () => {
-    expect(normalize(['nun', 'nau'])).toEqual(['nun', 'y', 'nau']);
+    expect(avoidProhibitions(['nun', 'nau'])).toEqual(['nun', 'y', 'nau']);
   });
   test("saizbata'u to be sairzbata'u", () => {
-    expect(normalize(['sai', 'zba', "ta'u"])).toEqual([
+    expect(avoidProhibitions(['sai', 'zba', "ta'u"])).toEqual([
       'sai',
       'r',
       'zba',

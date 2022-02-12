@@ -111,7 +111,7 @@ export function isCmevla(valsi: string): boolean {
 }
 
 // See https://github.com/sozysozbot/advent2016/blob/master/cll_lujvo_manual.md#2-rafsi%E3%82%92%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8Bpart1
-export function normalize(rafsis: string[]): string[] {
+export function avoidProhibitions(rafsis: string[]): string[] {
   if (rafsis.length < 2) {
     throw new Error('You need at least two valsi to make a lujvo');
   }
