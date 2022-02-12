@@ -25,4 +25,7 @@ describe('tosmabru test', () => {
   test('paspasybadna to be tosmabru', () => {
     expect(tosmabru(['pas', 'pas', 'y', 'badna'])).toBeTruthy();
   });
+  test('nunynau to be not tosmabru', () => {
+    expect(tosmabru(['nun', 'y', 'nau'])).toBeFalsy();
+  });
 });

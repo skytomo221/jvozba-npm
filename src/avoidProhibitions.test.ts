@@ -5,12 +5,7 @@ describe('avoidProhibitions test', () => {
     expect(avoidProhibitions(['zba', 'sai'])).toEqual(['zba', 'sai']);
   });
   test('nunynau to be nunynau', () => {
-    expect(avoidProhibitions(['nun', 'y', 'nau'])).toEqual([
-      'nun',
-      'y',
-      'y',
-      'nau',
-    ]);
+    expect(avoidProhibitions(['nun', 'y', 'nau'])).toEqual(['nun', 'y', 'nau']);
   });
   test('nunnau to be nunynau', () => {
     expect(avoidProhibitions(['nun', 'nau'])).toEqual(['nun', 'y', 'nau']);
