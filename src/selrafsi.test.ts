@@ -6,6 +6,6 @@ describe('selrafsi test', () => {
   });
   test("kib's selrafsi be to kibro", () => {
     expect(selrafsi('kib')).toBe('kibro');
-    expect(selrafsi('kib', false)).toBe(undefined);
+    expect(() => selrafsi('kib', false)).toThrow(Error);
   });
 });
