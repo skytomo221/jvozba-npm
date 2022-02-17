@@ -1,4 +1,4 @@
-import rafsiCandidates from './rafsiCandidates';
+import { rafsiCandidates } from './rafsiCandidates';
 
 describe('rafsiCandidates test', () => {
   test("bloti's rafsi is ['lot', 'blo', 'lo'i', 'blot']", () => {

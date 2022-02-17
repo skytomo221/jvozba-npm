@@ -1,4 +1,4 @@
-import jvozba from './jvozba';
+import { jvozba } from './jvozba';
 
 describe('jvozba test', () => {
   test('lujvo + zbasu be to jvozva', () => {

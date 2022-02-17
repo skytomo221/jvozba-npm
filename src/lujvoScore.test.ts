@@ -1,4 +1,4 @@
-import lujvoScore from './lujvoScore';
+import { lujvoScore } from './lujvoScore';
 
 // See https://lojban.org/publications/cll/cll_v1.1_xhtml-section-chunks/section-lujvo-scoring.html
 describe('lujvoScore test', () => {

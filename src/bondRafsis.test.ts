@@ -1,4 +1,4 @@
-import bondRafsis from './bondRafsis';
+import { bondRafsis } from './bondRafsis';
 
 describe('avoidProhibitions test', () => {
   test('zbasai to be zbasai', () => {

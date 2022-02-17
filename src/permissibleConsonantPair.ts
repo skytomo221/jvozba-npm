@@ -1,6 +1,6 @@
 import { Consonant } from './tools';
 
-export default function permissibleConsonantPair(
+export function permissibleConsonantPair(
   c1: Consonant,
   c2: Consonant,
 ): 0 | 1 | 2 {

@@ -1,4 +1,4 @@
-import tosmabru from './tosmabru';
+import { tosmabru } from './tosmabru';
 
 describe('tosmabru test', () => {
   test('tadji to be not tosmabru', () => {

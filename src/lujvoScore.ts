@@ -1,7 +1,7 @@
 import { syllables } from './tools';
 
 // See https://lojban.org/publications/cll/cll_v1.1_xhtml-section-chunks/section-lujvo-scoring.html
-export default function lujvoScore(rafsiYnrSequence: string[]): number {
+export function lujvoScore(rafsiYnrSequence: string[]): number {
   const lujvo: string = rafsiYnrSequence.join('');
   const l = lujvo.length;
   const a = lujvo.split("'").length - 1;

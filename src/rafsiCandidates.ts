@@ -1,6 +1,6 @@
 import rafsiList from './rafsi.json';
 
-export default function rafsiCandidates(
+export function rafsiCandidates(
   selrafsi: string,
   last: boolean = false,
   experimental: boolean = true,

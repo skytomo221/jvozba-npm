@@ -1,11 +1,13 @@
-# jvozba-npm
+# jvozba
 
 jvozba for Node.js!
 
 ## Usage
 
 ```ts
-jvozba(['lujvo', 'zbasu'])
+import { jvozba } from 'jvozba';
+
+jvozba(["lujvo", "zbasu"]);
 // ==>
 // [
 //   { lujvo: 'jvozba', score: 5858 },
@@ -21,9 +23,11 @@ jvozba(['lujvo', 'zbasu'])
 ```
 
 ```ts
-jvozba("jvoka'a")
+import { jvokaha } from 'jvozba';
+
+jvokaha("jvoka'a");
 // ==> ['jvo', "ka'a"]
-jvozba("jvoka'a", true)
+jvokaha("jvoka'a", true);
 // ==> ['lujvo', 'katna']
 ```
 

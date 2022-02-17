@@ -1,5 +1,5 @@
 import { bigram } from 'n-gram';
-import permissibleConsonantPair from './permissibleConsonantPair';
+import { permissibleConsonantPair } from './permissibleConsonantPair';
 import {
   Consonant, isCmevla, isConsonant, syllables,
 } from './tools';
@@ -13,7 +13,7 @@ function cc(r1: string, r2: string): boolean {
 }
 
 // See https://github.com/sozysozbot/advent2016/blob/master/cll_lujvo_manual.md#3-1-tosmabru%E3%83%86%E3%82%B9%E3%83%88
-export default function tosmabru(rafsis: string[]): boolean {
+export function tosmabru(rafsis: string[]): boolean {
   const last = rafsis[rafsis.length - 1];
   if (isCmevla(last)) return false;
   if (rafsis.includes('y')) {

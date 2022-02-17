@@ -1,11 +1,11 @@
-import bondRafsis from './bondRafsis';
-import lujvoScore from './lujvoScore';
-import rafsiCandidates from './rafsiCandidates';
+import { bondRafsis } from './bondRafsis';
+import { lujvoScore } from './lujvoScore';
+import { rafsiCandidates } from './rafsiCandidates';
 import { possibilityCombinations, isCmevla } from './tools';
 
 type LujvoAndScore = { lujvo: string; score: number };
 
-export default function jvozba(
+export function jvozba(
   words: string[],
   forbidLaLaiDoi: boolean = false,
   experimental: boolean = true,

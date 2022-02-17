@@ -1,4 +1,4 @@
-import permissibleConsonantPair from './permissibleConsonantPair';
+import { permissibleConsonantPair } from './permissibleConsonantPair';
 
 describe('tosmabru test', () => {
   test('s + t to be permissible initial consonant pair', () => {

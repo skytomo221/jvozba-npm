@@ -1,5 +1,5 @@
-import bondRafsis from './bondRafsis';
-import selrafsi from './selrafsi';
+import { bondRafsis } from './bondRafsis';
+import { selrafsi } from './selrafsi';
 import { syllables } from './tools';
 
 function headSyllable(lujvo: string, cvs: string): boolean {

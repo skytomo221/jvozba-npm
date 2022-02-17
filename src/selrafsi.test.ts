@@ -1,4 +1,4 @@
-import selrafsi from './selrafsi';
+import { selrafsi } from './selrafsi';
 
 describe('selrafsi test', () => {
   test("fu'i's selrafsi be to fukpi", () => {

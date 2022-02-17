@@ -1,8 +1,12 @@
 {
   "name": "jvozba",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    "./rafsi": "./dist/rafsi.json"
+  },
   "scripts": {
     "start": "node ./dist/index.js",
     "build": "tsc",
@@ -18,7 +22,6 @@
     "dist"
   ],
   "dependencies": {
-    "@types/rewire": "^2.5.28",
     "n-gram": "^2.0.1"
   },
   "devDependencies": {
