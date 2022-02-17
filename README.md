@@ -5,7 +5,7 @@ jvozba for Node.js!
 ## Usage
 
 ```ts
-import { jvozba } from 'jvozba';
+import { jvozba } from "jvozba";
 
 jvozba(["lujvo", "zbasu"]);
 // ==>
@@ -23,7 +23,7 @@ jvozba(["lujvo", "zbasu"]);
 ```
 
 ```ts
-import { jvokaha } from 'jvozba';
+import { jvokaha } from "jvozba";
 
 jvokaha("jvoka'a");
 // ==> ['jvo', "ka'a"]
