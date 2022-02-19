@@ -8,4 +8,10 @@ describe('selrafsi test', () => {
     expect(selrafsi('kib')).toBe('kibro');
     expect(() => selrafsi('kib', false)).toThrow(Error);
   });
+  test("mabr's selrafsi be to mabru", () => {
+    expect(selrafsi('mabr')).toBe('mabru');
+  });
+  test("mabru's selrafsi be to mabru", () => {
+    expect(selrafsi('mabru')).toBe('mabru');
+  });
 });
