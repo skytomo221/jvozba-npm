@@ -1,6 +1,7 @@
 import rafsiList from './rafsi.json';
 
 export function selrafsi(rafsi: string, experimental: boolean = true) {
+  if (rafsi === 'brod') throw new Error(`no rafsi for word ${rafsi}`);
   const result = rafsiList
     .filter((word) => !word.experimental || experimental)
     .find(

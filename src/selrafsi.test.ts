@@ -14,4 +14,8 @@ describe('selrafsi test', () => {
   test("mabru's selrafsi be to mabru", () => {
     expect(selrafsi('mabru')).toBe('mabru');
   });
+  test("brod's selrafsi be to throw", () => {
+    expect(() => selrafsi('brod')).toThrow(Error);
+    expect(() => selrafsi('brod', false)).toThrow(Error);
+  });
 });
